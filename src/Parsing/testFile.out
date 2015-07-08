@@ -1,0 +1,423 @@
+Sentence #1 (27 tokens):
+Along the storied hallways of the United States Capitol, Senator Tim Scott moves quietly, often disappearing behind his loquacious Senate colleagues and frenetic staff.
+[Text=Along CharacterOffsetBegin=0 CharacterOffsetEnd=5 PartOfSpeech=IN Lemma=along NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=6 CharacterOffsetEnd=9 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=storied CharacterOffsetBegin=10 CharacterOffsetEnd=17 PartOfSpeech=JJ Lemma=storied NamedEntityTag=O]
+[Text=hallways CharacterOffsetBegin=18 CharacterOffsetEnd=26 PartOfSpeech=NNS Lemma=hallway NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=27 CharacterOffsetEnd=29 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=30 CharacterOffsetEnd=33 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=United CharacterOffsetBegin=34 CharacterOffsetEnd=40 PartOfSpeech=NNP Lemma=United NamedEntityTag=LOCATION]
+[Text=States CharacterOffsetBegin=41 CharacterOffsetEnd=47 PartOfSpeech=NNPS Lemma=States NamedEntityTag=LOCATION]
+[Text=Capitol CharacterOffsetBegin=48 CharacterOffsetEnd=55 PartOfSpeech=NNP Lemma=Capitol NamedEntityTag=LOCATION]
+[Text=, CharacterOffsetBegin=55 CharacterOffsetEnd=56 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Senator CharacterOffsetBegin=57 CharacterOffsetEnd=64 PartOfSpeech=NNP Lemma=Senator NamedEntityTag=O]
+[Text=Tim CharacterOffsetBegin=65 CharacterOffsetEnd=68 PartOfSpeech=NNP Lemma=Tim NamedEntityTag=PERSON]
+[Text=Scott CharacterOffsetBegin=69 CharacterOffsetEnd=74 PartOfSpeech=NNP Lemma=Scott NamedEntityTag=PERSON]
+[Text=moves CharacterOffsetBegin=75 CharacterOffsetEnd=80 PartOfSpeech=VBZ Lemma=move NamedEntityTag=O]
+[Text=quietly CharacterOffsetBegin=81 CharacterOffsetEnd=88 PartOfSpeech=RB Lemma=quietly NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=88 CharacterOffsetEnd=89 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=often CharacterOffsetBegin=90 CharacterOffsetEnd=95 PartOfSpeech=RB Lemma=often NamedEntityTag=O]
+[Text=disappearing CharacterOffsetBegin=96 CharacterOffsetEnd=108 PartOfSpeech=VBG Lemma=disappear NamedEntityTag=O]
+[Text=behind CharacterOffsetBegin=109 CharacterOffsetEnd=115 PartOfSpeech=IN Lemma=behind NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=116 CharacterOffsetEnd=119 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=loquacious CharacterOffsetBegin=120 CharacterOffsetEnd=130 PartOfSpeech=JJ Lemma=loquacious NamedEntityTag=O]
+[Text=Senate CharacterOffsetBegin=131 CharacterOffsetEnd=137 PartOfSpeech=NNP Lemma=Senate NamedEntityTag=ORGANIZATION]
+[Text=colleagues CharacterOffsetBegin=138 CharacterOffsetEnd=148 PartOfSpeech=NNS Lemma=colleague NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=149 CharacterOffsetEnd=152 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=frenetic CharacterOffsetBegin=153 CharacterOffsetEnd=161 PartOfSpeech=JJ Lemma=frenetic NamedEntityTag=O]
+[Text=staff CharacterOffsetBegin=162 CharacterOffsetEnd=167 PartOfSpeech=NN Lemma=staff NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=167 CharacterOffsetEnd=168 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+(ROOT
+  (S
+    (PP (IN Along)
+      (NP
+        (NP (DT the) (JJ storied) (NNS hallways))
+        (PP (IN of)
+          (NP (DT the) (NNP United) (NNPS States) (NNP Capitol)))))
+    (, ,)
+    (NP (NNP Senator) (NNP Tim) (NNP Scott))
+    (VP (VBZ moves)
+      (ADVP (RB quietly))
+      (, ,)
+      (S
+        (VP
+          (ADVP (RB often))
+          (VBG disappearing)
+          (PP (IN behind)
+            (NP (PRP$ his)
+              (ADJP (JJ loquacious))
+              (NNP Senate) (NNS colleagues)
+              (CC and)
+              (JJ frenetic) (NN staff))))))
+    (. .)))
+
+root(ROOT-0, moves-14)
+case(hallways-4, Along-1)
+det(hallways-4, the-2)
+amod(hallways-4, storied-3)
+nmod:along(moves-14, hallways-4)
+case(Capitol-9, of-5)
+det(Capitol-9, the-6)
+compound(Capitol-9, United-7)
+compound(Capitol-9, States-8)
+nmod:of(hallways-4, Capitol-9)
+compound(Scott-13, Senator-11)
+compound(Scott-13, Tim-12)
+nsubj(moves-14, Scott-13)
+advmod(moves-14, quietly-15)
+advmod(disappearing-18, often-17)
+ccomp(moves-14, disappearing-18)
+case(colleagues-23, behind-19)
+nmod:poss(colleagues-23, his-20)
+amod(colleagues-23, loquacious-21)
+compound(colleagues-23, Senate-22)
+nmod:behind(disappearing-18, colleagues-23)
+cc(colleagues-23, and-24)
+amod(staff-26, frenetic-25)
+conj:and(colleagues-23, staff-26)
+
+Sentence #2 (69 tokens):
+But here in his home state of South Carolina, Mr. Scott, a Republican freshman, returned to his elemental political self Monday night: standing before scores of voters, a giant poster of Abraham Lincoln behind him, quoting Scripture (Proverbs 27:17), making fun of Representative Trey Gowdy’s hair (overly styled) and playing the unlikely role of presidential kingmaker.
+[Text=But CharacterOffsetBegin=170 CharacterOffsetEnd=173 PartOfSpeech=CC Lemma=but NamedEntityTag=O]
+[Text=here CharacterOffsetBegin=174 CharacterOffsetEnd=178 PartOfSpeech=RB Lemma=here NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=179 CharacterOffsetEnd=181 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=182 CharacterOffsetEnd=185 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=home CharacterOffsetBegin=186 CharacterOffsetEnd=190 PartOfSpeech=NN Lemma=home NamedEntityTag=O]
+[Text=state CharacterOffsetBegin=191 CharacterOffsetEnd=196 PartOfSpeech=NN Lemma=state NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=197 CharacterOffsetEnd=199 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=South CharacterOffsetBegin=200 CharacterOffsetEnd=205 PartOfSpeech=NNP Lemma=South NamedEntityTag=LOCATION]
+[Text=Carolina CharacterOffsetBegin=206 CharacterOffsetEnd=214 PartOfSpeech=NNP Lemma=Carolina NamedEntityTag=LOCATION]
+[Text=, CharacterOffsetBegin=214 CharacterOffsetEnd=215 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=Mr. CharacterOffsetBegin=216 CharacterOffsetEnd=219 PartOfSpeech=NNP Lemma=Mr. NamedEntityTag=O]
+[Text=Scott CharacterOffsetBegin=220 CharacterOffsetEnd=225 PartOfSpeech=NNP Lemma=Scott NamedEntityTag=PERSON]
+[Text=, CharacterOffsetBegin=225 CharacterOffsetEnd=226 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=227 CharacterOffsetEnd=228 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=Republican CharacterOffsetBegin=229 CharacterOffsetEnd=239 PartOfSpeech=JJ Lemma=republican NamedEntityTag=MISC]
+[Text=freshman CharacterOffsetBegin=240 CharacterOffsetEnd=248 PartOfSpeech=NN Lemma=freshman NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=248 CharacterOffsetEnd=249 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=returned CharacterOffsetBegin=250 CharacterOffsetEnd=258 PartOfSpeech=VBD Lemma=return NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=259 CharacterOffsetEnd=261 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=262 CharacterOffsetEnd=265 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=elemental CharacterOffsetBegin=266 CharacterOffsetEnd=275 PartOfSpeech=JJ Lemma=elemental NamedEntityTag=O]
+[Text=political CharacterOffsetBegin=276 CharacterOffsetEnd=285 PartOfSpeech=JJ Lemma=political NamedEntityTag=O]
+[Text=self CharacterOffsetBegin=286 CharacterOffsetEnd=290 PartOfSpeech=NN Lemma=self NamedEntityTag=O]
+[Text=Monday CharacterOffsetBegin=291 CharacterOffsetEnd=297 PartOfSpeech=NNP Lemma=Monday NamedEntityTag=DATE NormalizedNamedEntityTag=monday]
+[Text=night CharacterOffsetBegin=298 CharacterOffsetEnd=303 PartOfSpeech=NN Lemma=night NamedEntityTag=TIME NormalizedNamedEntityTag=N]
+[Text=: CharacterOffsetBegin=303 CharacterOffsetEnd=304 PartOfSpeech=: Lemma=: NamedEntityTag=O]
+[Text=standing CharacterOffsetBegin=305 CharacterOffsetEnd=313 PartOfSpeech=NN Lemma=standing NamedEntityTag=O]
+[Text=before CharacterOffsetBegin=314 CharacterOffsetEnd=320 PartOfSpeech=IN Lemma=before NamedEntityTag=O]
+[Text=scores CharacterOffsetBegin=321 CharacterOffsetEnd=327 PartOfSpeech=NNS Lemma=score NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=328 CharacterOffsetEnd=330 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=voters CharacterOffsetBegin=331 CharacterOffsetEnd=337 PartOfSpeech=NNS Lemma=voter NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=337 CharacterOffsetEnd=338 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=339 CharacterOffsetEnd=340 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=giant CharacterOffsetBegin=341 CharacterOffsetEnd=346 PartOfSpeech=JJ Lemma=giant NamedEntityTag=O]
+[Text=poster CharacterOffsetBegin=347 CharacterOffsetEnd=353 PartOfSpeech=NN Lemma=poster NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=354 CharacterOffsetEnd=356 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=Abraham CharacterOffsetBegin=357 CharacterOffsetEnd=364 PartOfSpeech=NNP Lemma=Abraham NamedEntityTag=PERSON]
+[Text=Lincoln CharacterOffsetBegin=365 CharacterOffsetEnd=372 PartOfSpeech=NNP Lemma=Lincoln NamedEntityTag=PERSON]
+[Text=behind CharacterOffsetBegin=373 CharacterOffsetEnd=379 PartOfSpeech=IN Lemma=behind NamedEntityTag=O]
+[Text=him CharacterOffsetBegin=380 CharacterOffsetEnd=383 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=383 CharacterOffsetEnd=384 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=quoting CharacterOffsetBegin=385 CharacterOffsetEnd=392 PartOfSpeech=VBG Lemma=quote NamedEntityTag=O]
+[Text=Scripture CharacterOffsetBegin=393 CharacterOffsetEnd=402 PartOfSpeech=NNP Lemma=Scripture NamedEntityTag=O]
+[Text=-LRB- CharacterOffsetBegin=403 CharacterOffsetEnd=404 PartOfSpeech=-LRB- Lemma=-lrb- NamedEntityTag=O]
+[Text=Proverbs CharacterOffsetBegin=404 CharacterOffsetEnd=412 PartOfSpeech=NNS Lemma=proverb NamedEntityTag=O]
+[Text=27:17 CharacterOffsetBegin=413 CharacterOffsetEnd=418 PartOfSpeech=CD Lemma=27:17 NamedEntityTag=TIME NormalizedNamedEntityTag=27:17]
+[Text=-RRB- CharacterOffsetBegin=418 CharacterOffsetEnd=419 PartOfSpeech=-RRB- Lemma=-rrb- NamedEntityTag=O]
+[Text=, CharacterOffsetBegin=419 CharacterOffsetEnd=420 PartOfSpeech=, Lemma=, NamedEntityTag=O]
+[Text=making CharacterOffsetBegin=421 CharacterOffsetEnd=427 PartOfSpeech=VBG Lemma=make NamedEntityTag=O]
+[Text=fun CharacterOffsetBegin=428 CharacterOffsetEnd=431 PartOfSpeech=NN Lemma=fun NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=432 CharacterOffsetEnd=434 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=Representative CharacterOffsetBegin=435 CharacterOffsetEnd=449 PartOfSpeech=NNP Lemma=Representative NamedEntityTag=O]
+[Text=Trey CharacterOffsetBegin=450 CharacterOffsetEnd=454 PartOfSpeech=NNP Lemma=Trey NamedEntityTag=PERSON]
+[Text=Gowdy CharacterOffsetBegin=455 CharacterOffsetEnd=460 PartOfSpeech=NNP Lemma=Gowdy NamedEntityTag=PERSON]
+[Text='s CharacterOffsetBegin=460 CharacterOffsetEnd=462 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=hair CharacterOffsetBegin=463 CharacterOffsetEnd=467 PartOfSpeech=NN Lemma=hair NamedEntityTag=O]
+[Text=-LRB- CharacterOffsetBegin=468 CharacterOffsetEnd=469 PartOfSpeech=-LRB- Lemma=-lrb- NamedEntityTag=O]
+[Text=overly CharacterOffsetBegin=469 CharacterOffsetEnd=475 PartOfSpeech=RB Lemma=overly NamedEntityTag=O]
+[Text=styled CharacterOffsetBegin=476 CharacterOffsetEnd=482 PartOfSpeech=VBN Lemma=style NamedEntityTag=O]
+[Text=-RRB- CharacterOffsetBegin=482 CharacterOffsetEnd=483 PartOfSpeech=-RRB- Lemma=-rrb- NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=484 CharacterOffsetEnd=487 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=playing CharacterOffsetBegin=488 CharacterOffsetEnd=495 PartOfSpeech=VBG Lemma=play NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=496 CharacterOffsetEnd=499 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=unlikely CharacterOffsetBegin=500 CharacterOffsetEnd=508 PartOfSpeech=JJ Lemma=unlikely NamedEntityTag=O]
+[Text=role CharacterOffsetBegin=509 CharacterOffsetEnd=513 PartOfSpeech=NN Lemma=role NamedEntityTag=O]
+[Text=of CharacterOffsetBegin=514 CharacterOffsetEnd=516 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=presidential CharacterOffsetBegin=517 CharacterOffsetEnd=529 PartOfSpeech=JJ Lemma=presidential NamedEntityTag=O]
+[Text=kingmaker CharacterOffsetBegin=530 CharacterOffsetEnd=539 PartOfSpeech=NN Lemma=kingmaker NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=539 CharacterOffsetEnd=540 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+(ROOT
+  (S (CC But)
+    (PP
+      (ADVP (RB here))
+      (IN in)
+      (NP
+        (NP (PRP$ his) (NN home) (NN state))
+        (PP (IN of)
+          (NP (NNP South) (NNP Carolina)))))
+    (, ,)
+    (NP
+      (NP (NNP Mr.) (NNP Scott))
+      (, ,)
+      (NP (DT a) (JJ Republican) (NN freshman))
+      (, ,))
+    (VP (VBD returned)
+      (PP (TO to)
+        (NP (PRP$ his) (JJ elemental) (JJ political) (NN self)))
+      (NP-TMP (NNP Monday) (NN night))
+      (: :)
+      (S
+        (NP
+          (NP
+            (NP (NN standing))
+            (PP (IN before)
+              (NP
+                (NP (NNS scores))
+                (PP (IN of)
+                  (NP (NNS voters))))))
+          (, ,)
+          (NP
+            (NP (DT a) (JJ giant) (NN poster))
+            (PP (IN of)
+              (NP
+                (NP (NNP Abraham) (NNP Lincoln))
+                (PP (IN behind)
+                  (NP (PRP him))))))
+          (, ,))
+        (VP
+          (VP (VBG quoting)
+            (NP
+              (NP (NNP Scripture))
+              (PRN (-LRB- -LRB-)
+                (NP
+                  (NP (NNS Proverbs))
+                  (NP (CD 27:17)))
+                (-RRB- -RRB-))))
+          (, ,)
+          (VP (VBG making)
+            (NP
+              (NP (NN fun))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP (NNP Representative) (NNP Trey) (NNP Gowdy) (POS 's))
+                    (NN hair))
+                  (PRN (-LRB- -LRB-)
+                    (VP
+                      (ADVP (RB overly))
+                      (VBN styled))
+                    (-RRB- -RRB-))))))
+          (CC and)
+          (VP (VBG playing)
+            (NP
+              (NP (DT the) (JJ unlikely) (NN role))
+              (PP (IN of)
+                (NP (JJ presidential) (NN kingmaker))))))))
+    (. .)))
+
+root(ROOT-0, returned-18)
+cc(returned-18, But-1)
+advmod(state-6, here-2)
+case(state-6, in-3)
+nmod:poss(state-6, his-4)
+compound(state-6, home-5)
+nmod:in(returned-18, state-6)
+case(Carolina-9, of-7)
+compound(Carolina-9, South-8)
+nmod:of(state-6, Carolina-9)
+compound(Scott-12, Mr.-11)
+nsubj(returned-18, Scott-12)
+det(freshman-16, a-14)
+amod(freshman-16, Republican-15)
+appos(Scott-12, freshman-16)
+case(self-23, to-19)
+nmod:poss(self-23, his-20)
+amod(self-23, elemental-21)
+amod(self-23, political-22)
+nmod:to(returned-18, self-23)
+compound(night-25, Monday-24)
+nmod:tmod(returned-18, night-25)
+nsubj(quoting-42, standing-27)
+case(scores-29, before-28)
+nmod:before(standing-27, scores-29)
+case(voters-31, of-30)
+nmod:of(scores-29, voters-31)
+det(poster-35, a-33)
+amod(poster-35, giant-34)
+appos(standing-27, poster-35)
+case(Lincoln-38, of-36)
+compound(Lincoln-38, Abraham-37)
+nmod:of(poster-35, Lincoln-38)
+case(him-40, behind-39)
+nmod:behind(Lincoln-38, him-40)
+ccomp(returned-18, quoting-42)
+dobj(quoting-42, Scripture-43)
+dep(Scripture-43, Proverbs-45)
+dep(Proverbs-45, 27:17-46)
+conj:and(quoting-42, making-49)
+dobj(making-49, fun-50)
+case(hair-56, of-51)
+compound(Gowdy-54, Representative-52)
+compound(Gowdy-54, Trey-53)
+nmod:poss(hair-56, Gowdy-54)
+case(Gowdy-54, 's-55)
+nmod:of(fun-50, hair-56)
+advmod(styled-59, overly-58)
+dep(hair-56, styled-59)
+cc(quoting-42, and-61)
+conj:and(quoting-42, playing-62)
+det(role-65, the-63)
+amod(role-65, unlikely-64)
+dobj(playing-62, role-65)
+case(kingmaker-68, of-66)
+amod(kingmaker-68, presidential-67)
+nmod:of(role-65, kingmaker-68)
+
+Sentence #3 (36 tokens):
+He put former Gov. Mike Huckabee of Arkansas through his paces in the first of Mr. Scott’s town hall-style meetings featuring Republican presidential hopefuls in a state vital to winning his party’s nomination.
+[Text=He CharacterOffsetBegin=541 CharacterOffsetEnd=543 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=put CharacterOffsetBegin=544 CharacterOffsetEnd=547 PartOfSpeech=VBD Lemma=put NamedEntityTag=O]
+[Text=former CharacterOffsetBegin=548 CharacterOffsetEnd=554 PartOfSpeech=JJ Lemma=former NamedEntityTag=O]
+[Text=Gov. CharacterOffsetBegin=555 CharacterOffsetEnd=559 PartOfSpeech=NNP Lemma=Gov. NamedEntityTag=O]
+[Text=Mike CharacterOffsetBegin=560 CharacterOffsetEnd=564 PartOfSpeech=NNP Lemma=Mike NamedEntityTag=PERSON]
+[Text=Huckabee CharacterOffsetBegin=565 CharacterOffsetEnd=573 PartOfSpeech=NNP Lemma=Huckabee NamedEntityTag=PERSON]
+[Text=of CharacterOffsetBegin=574 CharacterOffsetEnd=576 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=Arkansas CharacterOffsetBegin=577 CharacterOffsetEnd=585 PartOfSpeech=NNP Lemma=Arkansas NamedEntityTag=LOCATION]
+[Text=through CharacterOffsetBegin=586 CharacterOffsetEnd=593 PartOfSpeech=IN Lemma=through NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=594 CharacterOffsetEnd=597 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=paces CharacterOffsetBegin=598 CharacterOffsetEnd=603 PartOfSpeech=NNS Lemma=pace NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=604 CharacterOffsetEnd=606 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=the CharacterOffsetBegin=607 CharacterOffsetEnd=610 PartOfSpeech=DT Lemma=the NamedEntityTag=O]
+[Text=first CharacterOffsetBegin=611 CharacterOffsetEnd=616 PartOfSpeech=JJ Lemma=first NamedEntityTag=ORDINAL NormalizedNamedEntityTag=1.0]
+[Text=of CharacterOffsetBegin=617 CharacterOffsetEnd=619 PartOfSpeech=IN Lemma=of NamedEntityTag=O]
+[Text=Mr. CharacterOffsetBegin=620 CharacterOffsetEnd=623 PartOfSpeech=NNP Lemma=Mr. NamedEntityTag=O]
+[Text=Scott CharacterOffsetBegin=624 CharacterOffsetEnd=629 PartOfSpeech=NNP Lemma=Scott NamedEntityTag=PERSON]
+[Text='s CharacterOffsetBegin=629 CharacterOffsetEnd=631 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=town CharacterOffsetBegin=632 CharacterOffsetEnd=636 PartOfSpeech=NN Lemma=town NamedEntityTag=O]
+[Text=hall-style CharacterOffsetBegin=637 CharacterOffsetEnd=647 PartOfSpeech=NN Lemma=hall-style NamedEntityTag=O]
+[Text=meetings CharacterOffsetBegin=648 CharacterOffsetEnd=656 PartOfSpeech=NNS Lemma=meeting NamedEntityTag=O]
+[Text=featuring CharacterOffsetBegin=657 CharacterOffsetEnd=666 PartOfSpeech=VBG Lemma=feature NamedEntityTag=O]
+[Text=Republican CharacterOffsetBegin=667 CharacterOffsetEnd=677 PartOfSpeech=JJ Lemma=republican NamedEntityTag=MISC]
+[Text=presidential CharacterOffsetBegin=678 CharacterOffsetEnd=690 PartOfSpeech=JJ Lemma=presidential NamedEntityTag=O]
+[Text=hopefuls CharacterOffsetBegin=691 CharacterOffsetEnd=699 PartOfSpeech=NNS Lemma=hopeful NamedEntityTag=O]
+[Text=in CharacterOffsetBegin=700 CharacterOffsetEnd=702 PartOfSpeech=IN Lemma=in NamedEntityTag=O]
+[Text=a CharacterOffsetBegin=703 CharacterOffsetEnd=704 PartOfSpeech=DT Lemma=a NamedEntityTag=O]
+[Text=state CharacterOffsetBegin=705 CharacterOffsetEnd=710 PartOfSpeech=NN Lemma=state NamedEntityTag=O]
+[Text=vital CharacterOffsetBegin=711 CharacterOffsetEnd=716 PartOfSpeech=JJ Lemma=vital NamedEntityTag=O]
+[Text=to CharacterOffsetBegin=717 CharacterOffsetEnd=719 PartOfSpeech=TO Lemma=to NamedEntityTag=O]
+[Text=winning CharacterOffsetBegin=720 CharacterOffsetEnd=727 PartOfSpeech=VBG Lemma=win NamedEntityTag=O]
+[Text=his CharacterOffsetBegin=728 CharacterOffsetEnd=731 PartOfSpeech=PRP$ Lemma=he NamedEntityTag=O]
+[Text=party CharacterOffsetBegin=732 CharacterOffsetEnd=737 PartOfSpeech=NN Lemma=party NamedEntityTag=O]
+[Text='s CharacterOffsetBegin=737 CharacterOffsetEnd=739 PartOfSpeech=POS Lemma='s NamedEntityTag=O]
+[Text=nomination CharacterOffsetBegin=740 CharacterOffsetEnd=750 PartOfSpeech=NN Lemma=nomination NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=750 CharacterOffsetEnd=751 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD put)
+      (NP
+        (NP (JJ former) (NNP Gov.) (NNP Mike) (NNP Huckabee))
+        (PP (IN of)
+          (NP (NNP Arkansas))))
+      (PP (IN through)
+        (S
+          (NP
+            (NP (PRP$ his) (NNS paces))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ first))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Mr.) (NNP Scott) (POS 's))
+                    (NN town) (NN hall-style) (NNS meetings))))))
+          (VP (VBG featuring)
+            (NP (JJ Republican) (JJ presidential) (NNS hopefuls))
+            (PP (IN in)
+              (NP
+                (NP (DT a) (NN state))
+                (ADJP (JJ vital)
+                  (PP (TO to)
+                    (S
+                      (VP (VBG winning)
+                        (NP
+                          (NP (PRP$ his) (NN party) (POS 's))
+                          (NN nomination))))))))))))
+    (. .)))
+
+root(ROOT-0, put-2)
+nsubj(put-2, He-1)
+amod(Huckabee-6, former-3)
+compound(Huckabee-6, Gov.-4)
+compound(Huckabee-6, Mike-5)
+dobj(put-2, Huckabee-6)
+case(Arkansas-8, of-7)
+nmod:of(Huckabee-6, Arkansas-8)
+mark(featuring-22, through-9)
+nmod:poss(paces-11, his-10)
+nsubj(featuring-22, paces-11)
+case(first-14, in-12)
+det(first-14, the-13)
+nmod:in(paces-11, first-14)
+case(meetings-21, of-15)
+compound(Scott-17, Mr.-16)
+nmod:poss(meetings-21, Scott-17)
+case(Scott-17, 's-18)
+compound(meetings-21, town-19)
+compound(meetings-21, hall-style-20)
+nmod:of(first-14, meetings-21)
+advcl(put-2, featuring-22)
+amod(hopefuls-25, Republican-23)
+amod(hopefuls-25, presidential-24)
+dobj(featuring-22, hopefuls-25)
+case(state-28, in-26)
+det(state-28, a-27)
+nmod:in(featuring-22, state-28)
+amod(state-28, vital-29)
+mark(winning-31, to-30)
+advcl(vital-29, winning-31)
+nmod:poss(party-33, his-32)
+nmod:poss(nomination-35, party-33)
+case(party-33, 's-34)
+dobj(winning-31, nomination-35)
+
+Coreference set:
+	(1,20,[20,21]) -> (1,13,[11,14]), that is: "his" -> "Senator Tim Scott"
+	(2,4,[4,5]) -> (1,13,[11,14]), that is: "his" -> "Senator Tim Scott"
+	(2,12,[11,17]) -> (1,13,[11,14]), that is: "Mr. Scott , a Republican freshman" -> "Senator Tim Scott"
+	(2,12,[11,13]) -> (1,13,[11,14]), that is: "Mr. Scott" -> "Senator Tim Scott"
+	(2,12,[12,13]) -> (1,13,[11,14]), that is: "Scott" -> "Senator Tim Scott"
+	(2,16,[14,17]) -> (1,13,[11,14]), that is: "a Republican freshman" -> "Senator Tim Scott"
+	(2,20,[20,21]) -> (1,13,[11,14]), that is: "his" -> "Senator Tim Scott"
+	(2,40,[40,41]) -> (1,13,[11,14]), that is: "him" -> "Senator Tim Scott"
+	(3,1,[1,2]) -> (1,13,[11,14]), that is: "He" -> "Senator Tim Scott"
+	(3,10,[10,11]) -> (1,13,[11,14]), that is: "his" -> "Senator Tim Scott"
+	(3,17,[16,19]) -> (1,13,[11,14]), that is: "Mr. Scott 's" -> "Senator Tim Scott"
+	(3,32,[32,33]) -> (1,13,[11,14]), that is: "his" -> "Senator Tim Scott"
+Coreference set:
+	(3,23,[23,24]) -> (2,15,[15,16]), that is: "Republican" -> "Republican"
+
+The first sentence parsed is:
+(ROOT
+  (S
+    (PP (IN Along)
+      (NP
+        (NP (DT the) (JJ storied) (NNS hallways))
+        (PP (IN of)
+          (NP (DT the) (NNP United) (NNPS States) (NNP Capitol)))))
+    (, ,)
+    (NP (NNP Senator) (NNP Tim) (NNP Scott))
+    (VP (VBZ moves)
+      (ADVP (RB quietly))
+      (, ,)
+      (S
+        (VP
+          (ADVP (RB often))
+          (VBG disappearing)
+          (PP (IN behind)
+            (NP (PRP$ his)
+              (ADJP (JJ loquacious))
+              (NNP Senate) (NNS colleagues)
+              (CC and)
+              (JJ frenetic) (NN staff))))))
+    (. .)))
