@@ -7,9 +7,13 @@ import com.google.api.client.json.jackson.JacksonFactory;
 import com.google.api.services.customsearch.Customsearch;
 import com.google.api.services.customsearch.model.Result;
 import com.google.api.services.customsearch.model.Search;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
  
 import java.util.List;
 
+import java.io.*;
 /**
  * Hello world!
  *
@@ -25,19 +29,60 @@ public class App
 
         final private String FINAL_URL= GOOGLE_SEARCH_URL + "key=" + API_KEY + "&cx=" + SEARCH_ENGINE_ID;
 
-        public static void main(String[] args){
+        public static void main(String[] args) throws Exception{
 
             App gsc = new App();
-            String searchKeyWord = "clinton";
+            String fileOut = "results.txt";
+            String searchKeyWord = String.join(" ", args);
             List<Result> resultList =    gsc.getSearchResult(searchKeyWord);
-            if(resultList != null && resultList.size() > 0){
-                   for(Result result: resultList){
-                       System.out.println(result.getHtmlTitle());
-                       System.out.println(result.getFormattedUrl());
-                       //System.out.println(result.getHtmlSnippet());
-                       System.out.println("----------------------------------------");
-                   }
+            
+            try {
+                BufferedWriter fOut = new BufferedWriter(new PrintWriter(fileOut));
+                        
+                if(resultList != null && resultList.size() > 0){
+                       for(Result result: resultList){
+                           System.out.println(result.getHtmlTitle());
+                           String link = result.getLink();
+                           System.out.println(link);
+                           Document doc = Jsoup.connect(link).get();
+                           System.out.println(doc.body().text());
+                           fOut.write(result.getHtmlTitle());
+                           fOut.newLine();
+                           fOut.write(link);
+                           fOut.newLine();
+
+                           fOut.write(result.getHtmlSnippet());
+                           fOut.newLine();
+                           fOut.newLine();
+
+                           String fname = toValidFileName(link) + ".txt";
+                       
+                           try{
+                               PrintWriter fnameY = new PrintWriter(fname, "UTF-8");
+                               fnameY.write(doc.toString());
+                               fnameY.close();
+                           } catch (Exception e) {
+                                   System.err.format("Exception occurred trying to read %s", fname);
+                                   e.printStackTrace();
+                           }
+                           
+                          //System.out.println(doc.toString());
+                           //System.out.println(result.getHtmlSnippet());
+                           System.out.println("----------------------------------------");
+                       }
+                }
+                
+                fOut.close();
+            } catch (Exception e) {
+                System.err.format("Exception occurred trying to read %s", fileOut);
+                e.printStackTrace();
             }
+            
+        }
+
+        public static String toValidFileName(String input)
+        {
+            return input.replaceAll("[:\\\\/*\"?|<>']", " ");
         }
 
         public List<Result> getSearchResult(String keyword){

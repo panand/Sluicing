@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!-->
+<html lang="en" class="no-js section-opinion format-medium tone-opinion app-article page-theme-standard has-small-vertical-lede" itemid="http://www.nytimes.com/2015/02/09/opinion/children-and-technology-how-much-is-best.html" itemtype="http://schema.org/NewsArticle" itemscope="" xmlns:og="http://opengraphprotocol.org/schema/">
+ <!--<![endif]-->
+ <!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 section-opinion format-medium tone-opinion app-article page-theme-standard has-small-vertical-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+ <!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 section-opinion format-medium tone-opinion app-article page-theme-standard has-small-vertical-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+ <!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 section-opinion format-medium tone-opinion app-article page-theme-standard has-small-vertical-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+ <head> 
+  <title>Children and Technology: How Much Is Best?  - The New York Times</title> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
+  <link rel="shortcut icon" href="http://static01.nyt.com/favicon.ico" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="144&times;144" href="http://static01.nyt.com/images/icons/ios-ipad-144x144.png" /> 
+  <link rel="apple-touch-icon-precomposed" sizes="114&times;114" href="http://static01.nyt.com/images/icons/ios-iphone-114x144.png" /> 
+  <link rel="apple-touch-icon-precomposed" href="http://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png" /> 
+  <meta name="sourceApp" content="nyt-v5" /> 
+  <meta id="applicationName" name="applicationName" content="article" /> 
+  <meta id="foundation-build-id" name="foundation-build-id" content="" /> 
+  <link rel="canonical" href="http://www.nytimes.com/2015/02/09/opinion/children-and-technology-how-much-is-best.html" /> 
+  <link rel="alternate" href="http://mobile.nytimes.com/2015/02/09/opinion/children-and-technology-how-much-is-best.html" /> 
+  <meta property="al:android:url" content="nytimes://reader/id/100000003497038" /> 
+  <meta property="al:android:package" content="com.nytimes.android" /> 
+  <meta property="al:android:app_name" content="NYTimes" /> 
+  <meta name="twitter:app:name:googleplay" content="NYTimes" /> 
+  <meta name="twitter:app:id:googleplay" content="com.nytimes.android" /> 
+  <meta name="twitter:app:url:googleplay" content="nytimes://reader/id/100000003497038" /> 
+  <link rel="alternate" href="android-app://com.nytimes.android/nytimes/reader/id/100000003497038" /> 
+  <meta name="robots" content="noarchive" /> 
+  <meta itemprop="alternativeHeadline" name="hdl_p" content="Children and Technology: How Much Is Best?" /> 
+  <meta name="channels" content="" /> 
+  <meta itemprop="description" name="description" content="Educators respond to an Op-Ed article, “Can Students Have Too Much Tech?”" /> 
+  <meta itemprop="genre" content="Letter" /> 
+  <meta itemprop="identifier" name="articleid" content="100000003497038" /> 
+  <meta itemprop="usageTerms" name="usageTerms" content="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html" /> 
+  <meta itemprop="inLanguage" content="en-US" /> 
+  <meta name="hdl" content="Children and Technology: How Much Is Best? " /> 
+  <meta name="col" content="Letter" id="column-name" /> 
+  <meta name="pdate" content="20150209" /> 
+  <meta name="utime" content="20150209034641" /> 
+  <meta name="ptime" content="20150209032724" /> 
+  <meta name="DISPLAYDATE" content="Feb. 9, 2015" /> 
+  <meta name="dat" content="Feb. 9, 2015" /> 
+  <meta name="lp" content="Educators respond to an Op-Ed article, “Can Students Have Too Much Tech?”" /> 
+  <meta name="msapplication-starturl" content="http://www.nytimes.com" /> 
+  <meta name="cre" content="The New York Times" /> 
+  <meta name="slug" content="l09tech" /> 
+  <meta property="article:collection" content="http://json8.nytimes.com/services/json/sectionfronts/opinion/index.jsonp" /> 
+  <meta name="sectionfront_jsonp" content="http://json8.nytimes.com/services/json/sectionfronts/opinion/index.jsonp" /> 
+  <meta property="og:url" content="http://www.nytimes.com/2015/02/09/opinion/children-and-technology-how-much-is-best.html" /> 
+  <meta property="og:type" content="article" /> 
+  <meta property="og:title" content="Children and Technology: How Much Is Best? " /> 
+  <meta property="og:description" content="Educators respond to an Op-Ed article, “Can Students Have Too Much Tech?”" /> 
+  <meta property="article:published" itemprop="datePublished" content="2015-02-09" /> 
+  <meta property="article:section" itemprop="articleSection" content="Opinion" /> 
+  <meta property="article:section-taxonomy-id" itemprop="articleSection" content="AD8090D7-4137-4D71-84C8-70DA3BD89778" /> 
+  <meta property="article:section_url" content="http://www.nytimes.com/pages/opinion/index.html" /> 
+  <meta property="fb:app_id" content="9869919170" /> 
+  <meta name="twitter:card" value="summary" /> 
+  <meta name="twitter:site" value="@nytimes" /> 
+  <meta property="twitter:url" content="http://www.nytimes.com/2015/02/09/opinion/children-and-technology-how-much-is-best.html" /> 
+  <meta property="twitter:title" content="Children and Technology: How Much Is Best? " /> 
+  <meta property="twitter:description" content="Educators respond to an Op-Ed article, “Can Students Have Too Much Tech?”" /> 
+  <meta name="author" content="" /> 
+  <meta name="tone" content="opinion" id="article-tone" /> 
+  <meta name="byl" content="" /> 
+  <meta name="PT" content="article" /> 
+  <meta name="CG" content="opinion" /> 
+  <meta name="SCG" content="" /> 
+  <meta name="PST" content="Letter" /> 
+  <meta name="tom" content="Letter" /> 
+  <meta name="edt" content="NewYork" /> 
+  <meta property="og:image" content="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-facebookJumbo.jpg" /> 
+  <meta property="article:modified" itemprop="dateModified" content="2015-02-09" /> 
+  <meta name="thumbnail_150" content="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-thumbLarge.jpg" /> 
+  <meta name="thumbnail_150_height" content="150" /> 
+  <meta name="thumbnail_150_width" content="150" /> 
+  <meta property="twitter:image" content="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-thumbLarge.jpg" /> 
+  <meta itemprop="thumbnailUrl" name="thumbnail" content="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-thumbStandard.jpg" /> 
+  <meta name="thumbnail_height" content="75" /> 
+  <meta name="thumbnail_width" content="75" /> 
+  <meta name="dfp-ad-unit-path" content="opinion" /> 
+  <!--[if (gt IE 9)|!(IE)]> <!--> 
+  <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/article/20150707-162511/css/article/article/styles.css" /> 
+  <!--<![endif]--> 
+  <!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/article/20150707-162511/css/article/article/styles-ie.css" />
+    <![endif]--> 
+  <link rel="stylesheet" type="text/css" media="print" href="http://a1.nyt.com/assets/article/20150707-162511/css/article/article/styles-print.css" /> 
+  <script id="ad-config-data" type="text/json">
+{"adconfig":{"ledeMediaSize":"small","adxKeywords":["Letter","article-medium"]}}</script> 
+  <script id="display_overrides">
+            []    </script> 
+  <script src="http://a1.nyt.com/assets/article/20150707-162511/js/article/ad-loader.js"></script> 
+  <script id="abtestconfig" type="application/json">
+[
+    {
+        "testId": "0002",
+        "testName": "promotron",
+        "throttle": 1.0,
+        "allocation": 0.5,
+        "variants": 1
+    },
+    {
+        "testId": "0012",
+        "testName": "tallWatchingModule",
+        "throttle": 1.0,
+        "allocation": 0.9,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0033",
+        "testName": "recommendedLabelTest",
+        "throttle": 1,
+        "allocation": 0.833,
+        "variants": 5,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0036",
+        "testName": "velcroSocialFollow",
+        "throttle": 0.1,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article", "homepage"]
+    },
+    {
+        "testId": "0043",
+        "testName": "permanentRibbon",
+        "throttle": 1,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0050",
+        "testName": "styledMostEmailed",
+        "throttle": 1,
+        "allocation": 0.667,
+        "variants": 2,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0051",
+        "testName": "shuffleRecommendations",
+        "throttle": 1.0,
+        "allocation": 0.667,
+        "variants": 1,
+        "applications": ["article"]
+    }
+]
+
+</script> 
+  <script>
+var require = {
+    baseUrl: 'http://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'article/20150707-162511/js/foundation',
+        'shared': 'article/20150707-162511/js/shared',
+        'article': 'article/20150707-162511/js/article',
+        'application': 'article/20150707-162511/js/article/article',
+        'videoFactory': 'http://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'http://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'http://static01.nyt.com/js/mtr',
+        'auth/growl': 'http://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'http://static01.nyt.com/video/vhs/build/vhs-2.x.min'
+    },
+    map: {
+        '*': {
+            'article/main': 'article/article/main'
+        }
+    }
+};
+</script> 
+  <!--[if (gte IE 9)|!(IE)]> <!--> 
+  <script data-main="foundation/main" src="http://a1.nyt.com/assets/article/20150707-162511/js/foundation/lib/framework.js"></script> 
+  <!--<![endif]--> 
+  <!--[if lt IE 9]>
+<script>
+require.map = { '*': { 'foundation/main': 'foundation/legacy_main' } };
+</script>
+<script data-main="foundation/legacy_main" src="http://a1.nyt.com/assets/article/20150707-162511/js/foundation/lib/framework.js"></script>
+<![endif]--> 
+  <script>
+window.magnum.processFlags(["limitFabrikSave","dfpAds","criticsPickAdditionalInfo","restaurantAttributes","theaterAttributes","movieAttributes","followFeature","whatsNextVideoIcon","restaurantReviewAdditionalDetails","restaurantReviewHideInfoBox","restaurantReviewShowRestaurantName","restaurantReviewShowGoogleMap","restaurantReviewShowNotes","restaurantReviewShowLastUpdated","videoVHSCover","restaurantReviewShowMenuLink","allTheEmphases","androidDeepLinks","autoPlayVideos"]);
+</script> 
+  <script>
+require(['foundation/main'], function () {
+    require(['auth/mtr', 'auth/growl']);
+});
+</script> 
+ </head> 
+ <body> 
+  <style>
+    .lt-ie10 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie10 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie10 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie10 .messenger.suggestions .alert-icon {
+        background: url('http://i1.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie10 .masthead,
+    .lt-ie10 .navigation,
+    .lt-ie10 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie10 .ribbon {
+        margin-top: 97px !important;
+    }
+</style> 
+  <div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;"> 
+   <div class="message-bed"> 
+    <div class="message-container last-message-container"> 
+     <div class="message"> 
+      <span class="message-content"> <i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.</span> <a href="http://www.nytimes.com/content/help/site/ie9-support.html" class="action-link">LEARN MORE &raquo;</a> </span> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="shell" class="shell"> 
+   <header id="masthead" class="masthead masthead-theme-standard" role="banner"> 
+    <div class="container"> 
+     <div class="quick-navigation button-group"> 
+      <button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button> 
+      <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i> <span class="button-text">Home</span> </button> 
+      <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button> 
+      <a class="button skip-button skip-to-content visually-hidden focusable" href="#story-header">Skip to content</a> 
+      <a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a> 
+      <a class="button skip-button skip-to-mobile visually-hidden focusable" href="http://mobile.nytimes.com/2015/02/09/opinion/children-and-technology-how-much-is-best.html">View mobile version</a> 
+     </div>
+     <!-- close button-group --> 
+     <div class="branding"> 
+      <h2 class="branding-heading"> <a href="http://www.nytimes.com/"> <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/article/20150707-162511/images/foundation/logos/', 'opinion', 'masthead-theme-standard', 'standard');</script> </a> </h2> 
+     </div>
+     <!-- close branding --> 
+     <div class="story-meta"> 
+      <h6 class="kicker"><span class="kicker-label"><a href="http://www.nytimes.com/pages/opinion/index.html">The Opinion Pages</a></span><span class="pipe">|</span>Children and Technology: How Much Is Best? </h6> 
+     </div>
+     <!-- close story-meta --> 
+     <div id="TopNavAd" class="ad top-nav-ad nocontent robots-nocontent"> 
+      <div class="accessibility-ad-header visually-hidden"> 
+       <p>Advertisement</p> 
+      </div>
+     </div> 
+     <div class="user-tools"> 
+      <div id="sharetools-masthead" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-masthead  " data-shares="email,facebook,twitter,show-all|More" data-url="http://www.nytimes.com/2015/02/09/opinion/children-and-technology-how-much-is-best.html" data-title="Children and Technology: How Much Is Best? " data-author="" data-media="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-jumbo.gif" data-description="Educators respond to an Op-Ed article, “Can Students Have Too Much Tech?”" data-publish-date="February 9, 2015"> 
+       <div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent"> 
+       </div> 
+      </div>
+      <!-- close shareTools --> 
+      <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button> 
+      <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div> 
+      <div class="user-tools-button-group button-group"> 
+       <button class="button login-button login-modal-trigger hidden">Log In</button> 
+       <button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button> 
+       <button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button> 
+      </div>
+      <!-- close user-tools-button-group --> 
+     </div>
+     <!-- close user-tools --> 
+    </div>
+    <!-- close container --> 
+    <div class="search-flyout-panel flyout-panel"> 
+     <div class="ad"> 
+      <small class="ad-sponsor">search sponsored by</small> 
+      <div id="SponsorAd" class="sponsor-ad"></div> 
+     </div> 
+     <nav class="search-form-control form-control layout-horizontal"> 
+      <form class="search-form" role="search"> 
+       <div class="control"> 
+        <div class="label-container visually-hidden"> 
+         <label for="search-input">Search NYTimes.com</label> 
+        </div> 
+        <div class="field-container"> 
+         <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com" /> 
+         <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button> 
+         <div class="auto-suggest" style="display: none;"> 
+          <ol></ol> 
+         </div> 
+         <button class="button submit-button" type="submit">Go</button> 
+        </div> 
+       </div>
+       <!-- close control --> 
+      </form> 
+     </nav> 
+    </div>
+    <!-- close flyout-panel --> 
+    <div id="notification-modals" class="notification-modals"></div> 
+    <span class="story-short-url"><a href="http://nyti.ms/1uupGY3">http://nyti.ms/1uupGY3</a></span>
+   </header> 
+   <nav id="ribbon" class="ribbon ribbon-start nocontent robots-nocontent" aria-hidden="true"> 
+    <div class="nocontent robots-nocontent"> 
+     <ol class="ribbon-menu"> 
+      <li class="collection ribbon-loader"> 
+       <div class="loader loader-t-logo-32x32-ecedeb-ffffff">
+        <span class="visually-hidden">Loading...</span>
+       </div> </li> 
+     </ol> 
+     <div class="ribbon-navigation-container"> 
+      <nav class="ribbon-navigation next"> 
+       <span class="visually-hidden">See next articles</span> 
+       <div class="arrow arrow-right"> 
+        <div class="arrow-conceal"></div> 
+       </div> 
+      </nav> 
+      <nav class="ribbon-navigation previous"> 
+       <span class="visually-hidden">See previous articles</span> 
+       <div class="arrow arrow-left"> 
+        <div class="arrow-conceal"></div> 
+       </div> 
+      </nav> 
+     </div> 
+    </div>
+    <!-- close nocontent --> 
+   </nav> 
+   <div class="ribbon-fixed"></div> 
+   <nav id="navigation" class="navigation" role="navigation"> 
+   </nav> 
+   <!-- close navigation --> 
+   <nav id="mobile-navigation" class="mobile-navigation hidden"> 
+   </nav> 
+   <div id="navigation-edge" class="navigation-edge"></div> 
+   <div id="page" class="page"> 
+    <main id="main" class="main" role="main"> 
+     <div id="TopAd" class="ad top-ad nocontent robots-nocontent"> 
+      <div class="accessibility-ad-header visually-hidden"> 
+       <p>Advertisement</p> 
+      </div>
+     </div> 
+     <article id="story" class="story theme-main"> 
+      <header id="story-header" class="story-header"> 
+       <div id="story-meta" class="story-meta "> 
+        <h3 class="kicker"> <span class="kicker-label"><a href="http://www.nytimes.com/pages/opinion/index.html">The Opinion Pages</a></span> <span class="pipe">|</span> Letter </h3> 
+        <h1 itemprop="headline" id="story-heading" class="story-heading">Children and Technology: How Much Is Best? </h1> 
+        <div id="story-meta-footer" class="story-meta-footer"> 
+         <p class="byline-dateline"><time class="dateline" datetime="2015-02-09">FEB. 9, 2015</time> </p> 
+         <div class="inside-story"> 
+          <span class="menu-label">Inside</span> 
+          <ul class="inside-story-menu"></ul> 
+         </div> 
+         <div class="ad sponsortile-ad hidden nocontent robots-nocontent"> 
+          <div class="caption">
+           Supported By
+          </div> 
+          <div id="sponsortile" class="ad sponsortile-ad-creative"></div> 
+         </div> 
+        </div>
+        <!-- close story-meta-footer --> 
+       </div>
+       <!-- close story-meta --> 
+      </header> 
+      <div id="story-body" class="story-body"> 
+       <div class="lede-container"> 
+        <figure id="media-100000003498726" class="media photo lede layout-small-vertical" data-media-action="modal" itemprop="associatedMedia" itemscope="" itemid="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-master180.gif" itemtype="http://schema.org/ImageObject" aria-label="media" role="group"> 
+         <span class="visually-hidden">Photo</span> 
+         <div class="image"> 
+          <img src="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-master180.gif" alt="" class="media-viewer-candidate" data-mediaviewer-src="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-superJumbo.jpg" data-mediaviewer-caption="" data-mediaviewer-credit="" itemprop="url" itemid="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-master180.gif" /> 
+          <meta itemprop="height" content="229" /> 
+          <meta itemprop="width" content="180" /> 
+         </div> 
+        </figure> 
+        <div class="lede-container-ads"> 
+         <div id="XXL" class="ad xxl-ad marginalia-anchor-ad nocontent robots-nocontent">
+          <div class="accessibility-ad-header visually-hidden"> 
+           <p>Advertisement</p> 
+          </div>
+          <a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a> 
+         </div> 
+         <div id="MiddleRight" class="ad middle-right-ad marginalia-anchor-ad nocontent robots-nocontent">
+          <div class="accessibility-ad-header visually-hidden"> 
+           <p>Advertisement</p> 
+          </div>
+          <a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a> 
+         </div> 
+        </div> 
+       </div> 
+       <div id="byline-sharetools-container" class="byline-sharetools-container"> 
+        <div id="sharetools-story" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-story  " data-shares="email,facebook|Share,twitter|Tweet,save,show-all|more,ad" data-url="http://www.nytimes.com/2015/02/09/opinion/children-and-technology-how-much-is-best.html" data-title="Children and Technology: How Much Is Best? " data-author="" data-media="http://static01.nyt.com/images/2015/02/08/opinion/l09tech/l09tech-jumbo.gif" data-description="Educators respond to an Op-Ed article, “Can Students Have Too Much Tech?”" data-publish-date="February 9, 2015"> 
+         <a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a> 
+         <span class="sharetools-label visually-hidden">Share This Page</span> 
+         <div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent"> 
+          <a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a> 
+         </div> 
+         <div id="MiddleLeft" class="ad middle-left-ad hidden nocontent robots-nocontent"> 
+          <a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a> 
+         </div> 
+        </div>
+        <!-- close shareTools --> 
+       </div> 
+       <p class="story-body-text story-content" data-para-count="1" data-total-count="1" itemprop="articleBody" id="story-continues-1"><strong> </strong></p>
+       <p class="story-body-text story-content" data-para-count="14" data-total-count="15" itemprop="articleBody"><strong>To the Editor:</strong></p>
+       <p class="story-body-text story-content" data-para-count="59" data-total-count="74" itemprop="articleBody">Re “<a href="http://www.nytimes.com/2015/01/30/opinion/can-students-have-too-much-tech.html">Can Students Have Too Much Tech?</a>” (Op-Ed, Jan. 30):</p>
+       <p class="story-body-text story-content" data-para-count="350" data-total-count="424" itemprop="articleBody">Kudos to Susan Pinker for her excellent critique of the false promise of tech as a panacea for education. Particularly worrisome is the enormous marketing push by ed-tech companies to get digital devices in the hands of very young children, taking time away from the kind of hands-on exploration and creative play proved to be essential for learning.</p>
+       <p class="story-body-text story-content" data-para-count="370" data-total-count="794" itemprop="articleBody">What’s also troubling, both for early childhood settings and families at home, is the lack of evidenced-based criteria for advertising claims about the educational value of these products. The market is flooded with tech products purporting to teach infants, toddlers and preschoolers everything from counting to social skills with no research to back up these claims.</p>
+       <p class="story-body-text story-content" data-para-count="10" data-total-count="804" itemprop="articleBody">SUSAN LINN</p>
+       <p class="story-body-text story-content" data-para-count="13" data-total-count="817" itemprop="articleBody">SARA ADELMANN</p>
+       <p class="story-body-text story-content" data-para-count="6" data-total-count="823" itemprop="articleBody">Boston</p>
+       <p class="story-body-text story-content" data-para-count="1" data-total-count="824" itemprop="articleBody"><em> </em></p>
+       <p class="story-body-text story-content" data-para-count="132" data-total-count="956" itemprop="articleBody"><em>The writers are executive director and </em><em>screen time project manager</em><em>, respectively, with the Campaign for a Commercial-Free Childhood.</em></p>
+       <p class="story-body-text story-content" data-para-count="14" data-total-count="970" itemprop="articleBody"><strong>To the Editor:</strong></p>
+       <p class="story-body-text story-content" data-para-count="227" data-total-count="1197" itemprop="articleBody" id="story-continues-2">We are two educational equity researchers who appreciate the warnings in Susan Pinker’s article. Technology for technology’s sake in the schools is not an answer for anything and can be more of a distraction, as she argues.</p>
+       <p class="story-body-text story-content" data-para-count="243" data-total-count="1440" itemprop="articleBody">What matters is what students are learning and doing with the technology. Teaching and learning of computer science, a subject that drives innovation across all fields, must not be confused with the pouring of more technology into the schools.</p>
+       <p class="story-body-text story-content" data-para-count="302" data-total-count="1742" itemprop="articleBody">Computer science involves knowing how things work and are made, breaking down and solving problems, critical thinking, designing systems, contributing through making, and understanding social and ethical ramifications. This is why we are committed to making computer science accessible to all students.</p>
+       <p class="story-body-text story-content" data-para-count="354" data-total-count="2096" itemprop="articleBody">Unfortunately, too few public schools offer real computer science. And especially in schools with high numbers of African-Americans and Latinos in underresourced areas, the students are often offered only the rudimentary computer skills without the problem-solving and creative thinking that are required for understanding and innovating with technology.</p>
+       <p class="story-body-text story-content" data-para-count="252" data-total-count="2348" itemprop="articleBody">This increasingly important knowledge, which is driving the changes in our world and lives, must not stay with the moneyed elite and families that have the resources to give their children a leg up with expensive robotic kits and computer summer camps.</p>
+       <p class="story-body-text story-content" data-para-count="13" data-total-count="2361" itemprop="articleBody">JANE MARGOLIS</p>
+       <p class="story-body-text story-content" data-para-count="12" data-total-count="2373" itemprop="articleBody" id="story-continues-3">YASMIN KAFAI</p>
+       <p class="story-body-text story-content" data-para-count="11" data-total-count="2384" itemprop="articleBody" id="story-continues-4">Los Angeles</p>
+       <p class="story-body-text story-content" data-para-count="1" data-total-count="2385" itemprop="articleBody"><em> </em></p>
+       <p class="story-body-text story-content" data-para-count="195" data-total-count="2580" itemprop="articleBody"><em>Ms. Margolis is a senior researcher at the U.C.L.A. Graduate School of Education and Information Studies. Ms. Kafai is a professor at the University of Pennsylvania Graduate School of Education. </em></p>
+       <p class="story-body-text story-content" data-para-count="14" data-total-count="2594" itemprop="articleBody"><strong>To the Editor:</strong></p>
+       <p class="story-body-text story-content" data-para-count="81" data-total-count="2675" itemprop="articleBody">Susan Pinker’s article catalogs a lot of symptoms but misdiagnoses the illness.</p>
+       <p class="story-body-text story-content" data-para-count="128" data-total-count="2803" itemprop="articleBody">The problem isn’t too much tech. It’s too few adults in some children’s lives to guide, monitor and limit their use of it.</p>
+       <p class="story-body-text story-content" data-para-count="18" data-total-count="2821" itemprop="articleBody">LAURENCE STEINBERG</p>
+       <p class="story-body-text story-content" data-para-count="12" data-total-count="2833" itemprop="articleBody">Philadelphia</p>
+       <p class="story-body-text story-content" data-para-count="1" data-total-count="2834" itemprop="articleBody"><em> </em></p>
+       <p class="story-body-text story-content" data-para-count="61" data-total-count="2895" itemprop="articleBody"><em>The writer is a professor of psychology at Temple University.</em></p> 
+       <footer class="story-footer story-content"> 
+        <div class="story-meta"> 
+         <p class="story-print-citation">A version of this letter appears in print on February 9, 2015, on page A16 of the <span itemprop="printEdition">New York edition</span> with the headline: Children and Technology: How Much Is Best?. <span class="story-footer-links"> <span><a href="https://s100.copyright.com/AppDispatchServlet?contentID=http%3A%2F%2Fwww.nytimes.com%2F2015%2F02%2F09%2Fopinion%2Fchildren-and-technology-how-much-is-best.html&amp;publisherName=The+New+York+Times&amp;publication=nytimes.com&amp;token=&amp;orderBeanReset=true&amp;postType=&amp;wordCount=448&amp;title=Children+and+Technology%3A+How+Much+Is+Best%3F+&amp;publicationDate=February+9%2C+2015&amp;author= " target="_blank">Order Reprints</a><span class="pipe">|</span></span> <span><a href="http://www.nytimes.com/pages/todayspaper/index.html" target="_blank">Today's Paper</a><span class="pipe">|</span></span><span><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp839RF.html?campaignId=48JQY" target="_blank">Subscribe</a></span> </span> </p> 
+        </div>
+        <!-- close story-meta --> 
+       </footer> 
+       <nav id="next-in"></nav>
+       <!-- close next-in --> 
+      </div>
+      <!-- close story-body --> 
+     </article>
+     <aside class="marginalia most-emailed-marginalia hidden nocontent robots-nocontent" data-truncate-enabled="true"></aside>
+     <section id="whats-next" class="whats-next nocontent robots-nocontent"> 
+      <div class="nocontent robots-nocontent"> 
+       <div class="loader-container"> 
+        <div class="loader loader-t-logo-32x32-ecedeb-ffffff">
+         <span class="visually-hidden">Loading...</span>
+        </div> 
+       </div> 
+      </div>
+      <!-- close nocontent --> 
+     </section> 
+     <div id="TopAd1" class="text-ad bottom-left-ad nocontent robots-nocontent"></div>
+     <div id="Top5" class="ad top5-ad hidden nocontent robots-nocontent"></div> 
+     <div class="search-overlay"></div> 
+    </main>
+    <!-- close main --> 
+    <section id="site-index" class="site-index"> 
+     <header class="section-header"> 
+      <p class="user-action"><a href="http://www.nytimes.com/">Go to Home Page &raquo;</a></p> 
+      <h2 class="section-heading"> <span class="visually-hidden">Site Index</span> <a href="http://www.nytimes.com/"> <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/article/20150707-162511/images/foundation/logos/', '', '', 'standard');</script> </a> </h2> 
+     </header> 
+     <nav id="site-index-navigation" class="site-index-navigation" role="navigation"> 
+      <div class="split-6-layout layout"> 
+       <div class="column"> 
+        <h3 class="menu-heading">News</h3> 
+        <ul class="menu"> 
+         <li> <a href="http://www.nytimes.com/pages/world/index.html">World</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/national/index.html">U.S.</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/politics/index.html">Politics</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/nyregion/index.html">N.Y.</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/business/index.html">Business</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/technology/index.html">Tech</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/science/index.html">Science</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/health/index.html">Health</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/sports/index.html">Sports</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/education/index.html">Education</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/obituaries/index.html">Obituaries</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a> </li> 
+        </ul> 
+       </div>
+       <!-- close column --> 
+       <div class="column"> 
+        <h3 class="menu-heading">Opinion</h3> 
+        <ul class="menu"> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html#letters">Letters</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a> </li> 
+         <li> <a href="http://www.nytimes.com/roomfordebate/">Room for Debate</a> </li> 
+         <li> <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a> </li> 
+         <li> <a href="http://www.nytimes.com/video/opinion/">Video: Opinion</a> </li> 
+        </ul> 
+       </div>
+       <!-- close column --> 
+       <div class="column"> 
+        <h3 class="menu-heading">Arts</h3> 
+        <ul class="menu"> 
+         <li> <a href="http://www.nytimes.com/pages/arts/index.html">Today's Arts</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/arts/design/index.html">Art &amp; Design</a> </li> 
+         <li> <a href="http://artsbeat.blogs.nytimes.com/">ArtsBeat</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/books/index.html">Books</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/arts/dance/index.html">Dance</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/movies/index.html">Movies</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/arts/music/index.html">Music</a> </li> 
+         <li> <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/theater/index.html">Theater</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a> </li> 
+         <li> <a href="http://www.nytimes.com/video/arts/">Video: Arts</a> </li> 
+        </ul> 
+       </div>
+       <!-- close column --> 
+       <div class="column"> 
+        <h3 class="menu-heading">Living</h3> 
+        <ul class="menu"> 
+         <li> <a href="http://www.nytimes.com/pages/automobiles/index.html">Automobiles</a> </li> 
+         <li> <a href="http://www.nytimes.com/crosswords/">Crossword</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/dining/index.html">Food</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/education/index.html">Education</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/fashion/index.html">Fashion &amp; Style</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/health/index.html">Health</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/garden/index.html">Home &amp; Garden</a> </li> 
+         <li> <a href="http://www.nytimes.com/section/jobs">Jobs</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/magazine/index.html">Magazine</a> </li> 
+         <li> <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/t-magazine/index.html">T Magazine</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/travel/index.html">Travel</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/fashion/weddings/index.html">Weddings &amp; Celebrations</a> </li> 
+        </ul> 
+       </div>
+       <!-- close column --> 
+       <div class="column"> 
+        <h3 class="menu-heading">Listings &amp; More</h3> 
+        <ul class="menu"> 
+         <li> <a href="http://www.nytimes.com/ref/classifieds/">Classifieds</a> </li> 
+         <li> <a href="http://www.nytimes.com/marketing/tools-and-services/">Tools &amp; Services</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/topics/">Times Topics</a> </li> 
+         <li> <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a> </li> 
+         <li> <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a> </li> 
+         <li> <a href="http://tvlistings.nytimes.com/tvlistings/ZCGrid.do?aid=nyt">TV Listings</a> </li> 
+         <li> <a href="http://www.nytimes.com/interactive/blogs/directory.html">Blogs</a> </li> 
+         <li> <a href="http://wordplay.blogs.nytimes.com/cartoons/">Cartoons</a> </li> 
+         <li> <a href="http://www.nytimes.com/pages/multimedia/index.html">Multimedia</a> </li> 
+         <li> <a href="http://lens.blogs.nytimes.com/">Photography</a> </li> 
+         <li> <a href="http://www.nytimes.com/video/">Video</a> </li> 
+         <li> <a href="https://www.nytimes.com/store/?&amp;t=qry542&amp;utm_source=nytimes&amp;utm_medium=HPB&amp;utm_content=hp_browsetree&amp;utm_campaign=NYT-HP&amp;module=SectionsNav&amp;action=click&amp;region=TopBar&amp;version=BrowseTree&amp;contentCollection=NYT%20Store&amp;contentPlacement=2&amp;pgtype=Homepage">NYT Store</a> </li> 
+         <li> <a href="http://www.nytimes.com/times-journeys/?utm_source=nytimes&amp;utm_medium=HPLink&amp;utm_content=hp_browsetree&amp;utm_campaign=NYT-HP">Times Journeys</a> </li> 
+         <li> <a href="http://www.nytimes.com/seeallnav">Subscribe</a> </li> 
+         <li> <a href="http://www.nytimes.com/membercenter">Manage My Account</a> </li> 
+        </ul> 
+       </div>
+       <!-- close column --> 
+       <div class="column last-column"> 
+        <h3 class="menu-heading">Subscribe</h3> 
+        <ul class="menu primary-menu"> 
+         <li class="menu-label">Subscribe</li> 
+         <li class="times-premier"> <i class="icon sprite-icon"></i> <a href="http://www.nytimes.com/tpnav">Times Premier</a> </li> 
+         <li class="home-delivery"> <i class="icon sprite-icon"></i> <a href="http://www.nytimes.com/hdleftnav">Home Delivery</a> </li> 
+         <li class="digital-subscriptions"> <i class="icon sprite-icon"></i> <a href="http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a> </li> 
+         <li class="nyt-opinion"> <i class="icon sprite-icon"></i> <a href="http://www.nytimes.com/opinionindex">NYT Opinion</a> </li> 
+         <li class="nyt-crossword last-item"> <i class="icon sprite-icon"></i> <a id="nyt-crossword" href="http://www.nytimes.com/crosswords/index.html">Crossword</a> </li> 
+        </ul> 
+        <ul class="menu secondary-menu"> 
+         <li> <a href="http://www.nytimes.com/marketing/newsletters">Email Newsletters</a> </li> 
+         <li> <a href="https://myaccount.nytimes.com/mem/tnt.html">Alerts</a> </li> 
+         <li> <a href="http://www.nytimes.com/giftleftnav">Gift Subscriptions</a> </li> 
+         <li> <a href="http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a> </li> 
+         <li> <a href="http://www.nytimes.com/educationleftnav">Education Rate</a> </li> 
+        </ul> 
+        <ul class="menu secondary-menu"> 
+         <li> <a href="http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a> </li> 
+         <li> <a href="http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a> </li> 
+         <li> <a href="http://subscribe.inyt.com">International New York Times</a> </li> 
+        </ul> 
+       </div>
+       <!-- close column --> 
+      </div>
+      <!-- close split-6-layout --> 
+     </nav>
+     <!-- close nav --> 
+    </section>
+    <!-- close site-index --> 
+    <footer id="page-footer" class="page-footer" role="contentinfo"> 
+     <nav> 
+      <ul> 
+       <li> <a href="http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice"> &copy; <span itemprop="copyrightYear">2015</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="http://www.nytimes.com"><span itemprop="name"> The New York Times Company</span>
+          <meta itemprop="tickerSymbol" content="NYSE NYT" /></span> </a> </li> 
+       <li class="visually-hidden"><a href="http://www.nytimes.com">Home</a></li> 
+       <li class="visually-hidden"><a href="http://query.nytimes.com/search/sitesearch/#/">Search</a></li> 
+       <li class="wide-viewport-item"><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li> 
+       <li class="wide-viewport-item"><a href="http://www.nytco.com/careers">Work With Us</a></li> 
+       <li class="wide-viewport-item"><a href="http://www.nytimes.whsites.net/mediakit">Advertise</a></li> 
+       <li class="wide-viewport-item"><a href="http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li> 
+       <li><a href="http://www.nytimes.com/privacy">Privacy</a></li> 
+       <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li> 
+       <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li> 
+      </ul> 
+     </nav> 
+     <nav class="last-nav"> 
+      <ul> 
+       <li><a href="http://spiderbites.nytimes.com">Site Map</a></li> 
+       <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li> 
+       <li><a href="https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li> 
+       <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li> 
+      </ul> 
+     </nav> 
+    </footer> 
+   </div>
+   <!-- close page --> 
+  </div>
+  <!-- close shell --> 
+  <script>
+require(['foundation/main'], function () {
+    require(['article/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['http://static01.nyt.com/bi/js/tagx/tagx.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script> 
+  <div id="Inv1" class="ad inv1-ad hidden"></div> 
+  <div id="Inv2" class="ad inv2-ad hidden"></div> 
+  <div id="Inv3" class="ad inv3-ad hidden"></div> 
+  <div id="ab1" class="ad ab1-ad hidden"></div> 
+  <div id="ab2" class="ad ab2-ad hidden"></div> 
+  <div id="ab3" class="ad ab3-ad hidden"></div> 
+  <div id="prop1" class="ad prop1-ad hidden"></div> 
+  <div id="prop2" class="ad prop2-ad hidden"></div> 
+  <div id="Anchor" class="ad anchor-ad hidden"></div> 
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"4491457","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRhCXUA=","queueTime":0,"applicationTime":177,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script>  
+ </body>
+</html>

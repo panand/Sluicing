@@ -1,0 +1,1088 @@
+<!--[if !IE]> This has been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF13 <![endif]-->
+<!--[if !IE]> Cached on Wed, 08 Jul 2015 22:09:28 GMT and will expire on Wed, 08 Jul 2015 22:24:28 GMT <![endif]-->
+<!--[if !IE]> token: 49af1aec-82db-4c88-930c-244a93825cb0 <![endif]-->
+<!--[if !IE]> CSTAT-UUID: c7e95011-a522-42d0-9092-0f01b40d65a2 <![endif]-->
+<!--[if !IE]> App Server /S264630NJ2XSF49/ <![endif]--><!DOCTYPE html>
+<!--[if lt IE 9]> <html class="no-js ie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+ <!--<![endif]-->
+ <head> 
+  <meta charset="utf-8" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <meta name="viewport" content="width=device-width" /> 
+  <script type="text/javascript" src="http://www.reuters.com/reuters_bootstrap.js"></script> 
+  <!-- AdBlock Plus Begin--> 
+  <script type="text/javascript">var abp;</script> 
+  <script type="text/javascript" src="/resources_v2/js/px.js?ch=1"></script> 
+  <script type="text/javascript" src="/resources_v2/js/px.js?ch=2"></script> 
+  <!-- AdBlock Plus End--> 
+  <script type="text/javascript">
+        	var parallelMediaHosts = new Array();
+        	
+        		parallelMediaHosts.push("s1.reutersmedia.net");
+        	
+        		parallelMediaHosts.push("s2.reutersmedia.net");
+        	
+        		parallelMediaHosts.push("s3.reutersmedia.net");
+        	
+        		parallelMediaHosts.push("s4.reutersmedia.net");
+        	</script> 
+  <title>
+      				How much Greece owes to international creditors
+| Reuters
+
+</title> 
+  <link rel="canonical" href="http://www.reuters.com/article/2015/06/28/us-eurozone-greece-debt-factbox-idUSKCN0P80XW20150628" /> 
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.reuters.com/article/idUSKCN0P80XW20150628" /> 
+  <meta name="site edition" content="Reuters" /> 
+  <meta property="og:site_name" content="Reuters" /> 
+  <meta property="og:locale" content="en_US" /> 
+  <meta property="fb:app_id" content="169549326390879" /> 
+  <meta property="article:publisher" content="https://www.facebook.com/Reuters" /> 
+  <meta name="twitter:site" content="@Reuters" /> 
+  <meta name="twitter:creator" content="@Reuters" /> 
+  <link rel="publisher" href="https://plus.google.com/+Reuters" /> 
+  <meta name="twitter:card" content="summary_large_image" /> 
+  <meta name="DCSext.DartZone" content="us.reuters/bizfinance/markets/article" /> 
+  <meta name="DCSext.rChannel" content="Finance" /> 
+  <meta name="DCSext.rCountry" content="BETAUS" /> 
+  <meta name="WT.cg_n" content="Finance - Markets" /> 
+  <meta name="WT.cg_s" content="ousivMolt" /> 
+  <meta name="DCSext.ContentChannel" content="Article Template" /> 
+  <meta name="DCSext.ContentType" content="Text" /> 
+  <meta name="DCSext.ChannelList" content="topNews;businessNews;gc04;gc05;ousivMolt;Germany;everything;Deals;forexNewsCopy;Davos;Greece;AllianzRetirement;AllianzInvestments;Allianz;IMF;europe;newsproHome;audib2b;Davos2012;davosBackup;cfaglobal;aa48hours;Intel;PFG;Fidelity2014;TCS_IN;ABG_IN;LinkedInBusTech;CathayPacific_US;MOC_US;GCA-NewsPro" /> 
+  <meta name="DCSext.ContentChannel" content="ousivMolt" /> 
+  <meta name="DCSext.ContentID" content="USKCN0P80XW20150628" /> 
+  <meta name="DCSext.ContentID_ousivMolt" content="USKCN0P80XW20150628" /> 
+  <meta name="DCSext.ContentHeadline" content="How+much+Greece+owes+to+international+creditors" /> 
+  <meta name="DCSext.PageNumber" content="1" /> 
+  <meta name="DCSext.PageTotal" content="2" /> 
+  <meta name="description" content="Greece, which may default on an International Monetary Fund debt repayment due on Tuesday after talks with creditors broke down, owes its official lenders 242.8 billion euros ($271 billion), according" /> 
+  <meta name="keywords" content="US,EUROZONE,GREECE,DEBT,FACTBOX,France,Factboxes,European Central Bank,Germany,National Government Debt,Europe,European Union,Italy,Diplomacy / Foreign Policy,Euro Zone as a Whole,EU Institutions,Government / Politics,Debt / Fixed Income Markets,Greece,Spain,Corporate Events,Central Banks / Central Bank Events,Western Europe,Economic Events,Government Finances,International Monetary Fund" /> 
+  <meta name="news_keywords" content="US;EUROZONE;GREECE;DEBT;FACTBOX;France;Factboxes;European Central Bank;Germany;National Government Debt;Europe;European Union;Italy;Diplomacy / Foreign Policy;Euro Zone as a Whole;EU Institutions;Government / Politics;Debt / Fixed Income Markets;Greece;Spain;Corporate Events;Central Banks / Central Bank Events;Western Europe;Economic Events;Government Finances;International Monetary Fund" /> 
+  <meta property="og:title" content="How much Greece owes to international creditors" /> 
+  <meta property="og:url" content="http://www.reuters.com/article/2015/06/28/us-eurozone-greece-debt-factbox-idUSKCN0P80XW20150628" /> 
+  <meta property="og:type" content="article" /> 
+  <meta name="DCSext.contentversion" content="original" /> 
+  <meta name="WT.z_inlinetype" content="false" /> 
+  <meta name="Author" content="Reuters Editorial" /> 
+  <meta name="DCSext.rAuthor" content="Reuters Editorial" /> 
+  <meta name="REVISION_DATE" content="Sun Jun 28 19:02:22 UTC 2015" /> 
+  <meta name="twitter:description" content="Greece, which may default on an International Monetary Fund debt repayment due on Tuesday after talks with creditors broke down, owes its official lenders 242.8 billion euros ($271 billion), according" /> 
+  <meta name="og:description" content="Greece, which may default on an International Monetary Fund debt repayment due on Tuesday after talks with creditors broke down, owes its official lenders 242.8 billion euros ($271 billion), according" /> 
+  <meta name="sailthru.tags" content="US, EUROZONE, GREECE, DEBT, FACTBOX" /> 
+  <meta name="sailthru.author" content="Reuters Editorial" /> 
+  <meta name="sailthru.description" content="Greece, which may default on an International Monetary Fund debt repayment due on Tuesday after talks with creditors broke down, owes its official lenders 242.8 billion euros ($271 billion), according" /> 
+  <meta name="sailthru.date" content="2015-06-28T19:02:22+0000" /> 
+  <meta name="sailthru.title" content="How much Greece owes to international creditors" /> 
+  <meta name="sailthru.contentType" content="Text" /> 
+  <script type="application/ld+json">
+			      {
+			        "@context": "http://schema.org",
+			        "@type": "NewsArticle",
+			        "headline": "How much Greece owes to international creditors",
+			        "url": "http://www.reuters.com/article/2015/06/28/us-eurozone-greece-debt-factbox-idUSKCN0P80XW20150628",
+			        "thumbnailUrl": "",
+			        "dateCreated": "2015-06-28T19:02:22+0000",
+			        "articleSection": "Finance - Markets",
+			        "creator": [""],
+			        "keywords": ["US","EUROZONE","GREECE","DEBT","FACTBOX","France","Factboxes","European Central Bank","Germany","National Government Debt","Europe","European Union","Italy","Diplomacy / Foreign Policy","Euro Zone as a Whole","EU Institutions","Government / Politics","Debt / Fixed Income Markets","Greece","Spain","Corporate Events","Central Banks / Central Bank Events","Western Europe","Economic Events","Government Finances","International Monetary Fund"]
+			      }
+			</script> 
+  <meta name="WT.z_navid" content="nav-Text-ousivMolt" /> 
+  <link rel="shortcut icon" href="http://s3.reutersmedia.net/resources_v2/images/favicon.ico" /> 
+  <link rel="icon" href="http://s3.reutersmedia.net/resources_v2/images/favicon.ico" /> 
+  <link rel="stylesheet" type="text/css" href="http://s3.reutersmedia.net/resources_v2/css/rcom-global.css" /> 
+  <!--[if lt IE 9]>
+        <link rel="stylesheet" type="text/css" href="http://s4.reutersmedia.net/resources_v2/css/rcom-legacy-ie-styles.css" />
+        <![endif]--> 
+  <link rel="stylesheet" type="text/css" href="http://s2.reutersmedia.net/resources_v2/css/rcom-article-2015.css" /> 
+  <link rel="stylesheet" type="text/css" href="http://s2.reutersmedia.net/resources_v2/css/rcom-modules.css" /> 
+  <style>
+@font-face {
+	font-family: 'knowledgemedium';
+	src: url('http://www.reuters.com/resources_v2/fonts/Knowledge-Medium-webfont.eot');
+	src: url('http://www.reuters.com/resources_v2/fonts/Knowledge-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('http://www.reuters.com/resources_v2/fonts/Knowledge-Medium-webfont.woff2') format('woff2'),
+	     url('http://www.reuters.com/resources_v2/fonts/Knowledge-Medium-webfont.woff') format('woff'),
+	     url('http://www.reuters.com/resources_v2/fonts/Knowledge-Medium-webfont.ttf') format('truetype'),
+	     url('http://www.reuters.com/resources_v2/fonts/Knowledge-Medium-webfont.svg#knowledgemedium') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+.slider .slider-left, .slider .slider-right {
+    text-indent: -999999em !important;
+}
+</style>
+  <script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script type="text/javascript"> 
+googletag.cmd.push(function() { 
+googletag.defineSlot('/1309/us.reuters/%5Bsection%5D', [300, 250], 'ad-div-mpu').addService(googletag.companionAds()).addService(googletag.pubads());
+googletag.companionAds().setRefreshUnfilledSlots(true); 
+googletag.pubads().enableVideoAds(); 
+googletag.enableServices(); 
+}); 
+</script> 
+  <script src="http://s3.reutersmedia.net/resources_v2/js/libraries/modernizr-2.8.1.min.js" type="text/javascript"></script> 
+  <script src="http://s3.reutersmedia.net/resources_v2/js/libraries/jquery-1.11.1.min.js" type="text/javascript"></script> 
+  <!--[if lt IE 9]>
+        <script src="http://s3.reutersmedia.net/resources_v2/js/libraries/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+        <![endif]--> 
+  <script src="http://s2.reutersmedia.net/resources_v2/js/libraries/jquery.cookie.js" type="text/javascript"></script> 
+  <script src="http://s3.reutersmedia.net/resources_v2/js/libraries/slick.min.js" type="text/javascript"></script> 
+  <script src="http://s3.reutersmedia.net/resources_v2/js/cpn-video-main.js" type="text/javascript"></script> 
+  <script type="text/javascript" src="http://s2.reutersmedia.net/resources_v2/js/rcom-parsely.js"></script> 
+  <script type="text/javascript" src="http://s2.reutersmedia.net/resources_v2/js/rcom-ads-2015.js"></script> 
+  <script type="text/javascript" src="http://s2.reutersmedia.net/resources_v2/js/singlePageView.js"></script> 
+  <!-- article page --> 
+  <script src="http://s4.reutersmedia.net/resources_v2/js/rcom-scroll-tracker.js"></script> 
+  <script type="text/javascript">
+$(document).ready( function() {
+      var sclTracking = new rcom_scrollTracker("Text");
+      if( inAppleMobileDevice() )
+        document.addEventListener("scroll", sclTracking, false);
+      else
+        $(window).scroll( sclTracking );
+});
+</script> 
+ </head> 
+ <body class="BETAUS article"> 
+  <!-- Google Tag Manager --> 
+  <noscript>
+   <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9SLGS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <script>if (location.href.indexOf('/commentsChild?') == -1){ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+        (window,document,'script','dataLayer','GTM-W9SLGS'); }</script> 
+  <!-- End Google Tag Manager --> 
+  <header> 
+   <div class="container group"> 
+    <h2 class="reuters-logo"> <a href="/" title="Reuters"> <img src="http://s4.reutersmedia.net/resources_v2/images/rcom-logo-hdr.png" alt="Thomson Reuters" border="0" /> </a> </h2> 
+    <div class="edition-container group"> 
+     <div class="edition-label">
+      Edition:
+     </div> 
+     <div class="edition-selector"> 
+      <div class="edition">
+       U.S.
+      </div> 
+      <ul class="edition-list"> 
+       <li><a href="http://af.reuters.com">Africa</a></li> 
+       <li><a href="http://ara.reuters.com">Arabic</a></li> 
+       <li><a href="http://ar.reuters.com">Argentina</a></li> 
+       <li><a href="http://br.reuters.com">Brazil</a></li> 
+       <li><a href="http://ca.reuters.com">Canada</a></li> 
+       <li><a href="http://cn.reuters.com">China</a></li> 
+       <li><a href="http://fr.reuters.com">France</a></li> 
+       <li><a href="http://de.reuters.com">Germany</a></li> 
+       <li><a href="http://in.reuters.com">India</a></li> 
+       <li><a href="http://it.reuters.com">Italy</a></li> 
+       <li><a href="http://jp.reuters.com">Japan</a></li> 
+       <li><a href="http://lta.reuters.com">Latin America</a></li> 
+       <li><a href="http://mx.reuters.com">Mexico</a></li> 
+       <li><a href="http://ru.reuters.com">Russia</a></li> 
+       <li><a href="http://es.reuters.com">Spain</a></li> 
+       <li><a href="http://uk.reuters.com">United Kingdom</a></li> 
+      </ul> 
+      <div class="edition-arrow"></div> 
+     </div> 
+    </div> 
+    <div id="search" class="search"> 
+     <form id="searchForm" class="search-form" name="searchbox" method="get" action="/search/news" autocomplete="off"> 
+      <input id="searchfield" class="search-field" name="blob" type="text" value="Search Reuters" onfocus="if(this.value == 'Search Reuters') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Search Reuters'; }" size="30" maxlength="128" /> 
+      <input type="submit" id="search-submit-button" class="search-submit-button" value="" onmousedown="if(document.forms['searchbox'].blob.value == 'Search Reuters') { document.forms['searchbox'].blob.value = ''; }" /> 
+     </form> 
+    </div> 
+    <div id="utilities" class="utilities"></div> 
+   </div> 
+  </header> 
+  <nav> 
+   <div class="container group"> 
+    <ul class="horizontal-list nav-list"> 
+     <li class="nav-item
+                                                    no-subnav" id="nav-item-1"> <a href="/home">Home<i class="subnav-icon"></i></a> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-2"> <a href="/finance">Business<i class="subnav-icon"></i></a> 
+      <div class="subnav " id="subnav-2"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="/finance">Business Home</a> </li> 
+         <li class=""> <a href="/legal">Legal</a> </li> 
+         <li class=""> <a href="/finance/deals">Deals</a> </li> 
+         <li class=""> <a href="/subjects/aerospace-and-defense">Aerospace &amp; Defense</a> </li> 
+         <li class=""> <a href="/subjects/banks">Finance</a> </li> 
+         <li class=""> <a href="/subjects/autos">Autos</a> </li> 
+         <li class=""> <a href="/finance/summits">Reuters Summits</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-3"> <a href="/finance/markets">Markets<i class="subnav-icon"></i></a> 
+      <div class="subnav double" id="subnav-3"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="/finance/markets">Markets Home</a> </li> 
+         <li class=""> <a href="/finance/markets/us">U.S. Markets</a> </li> 
+         <li class=""> <a href="/finance/markets/europe">European Markets</a> </li> 
+         <li class=""> <a href="/finance/markets/asia">Asian Markets</a> </li> 
+         <li class=""> <a href="/finance/global-market-data">Global Market Data</a> </li> 
+         <li class=""> <a href="/finance/markets/indices">Indices</a> </li> 
+         <li class=""> <a href="/finance/stocks">Stocks</a> </li> 
+        </ul> 
+        <ul class="subnav-list subnav-list-right"> 
+         <li class=""> <a href="/finance/bonds">Bonds</a> </li> 
+         <li class=""> <a href="/finance/currencies">Currencies</a> </li> 
+         <li class=""> <a href="/finance/commodities">Comm &amp; Energy</a> </li> 
+         <li class=""> <a href="/finance/futures">Futures</a> </li> 
+         <li class=""> <a href="/finance/funds">Funds</a> </li> 
+         <li class=""> <a href="/finance/EarningsUS">Earnings</a> </li> 
+         <li class=""> <a href="/finance/markets/dividends">Dividends</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-4"> <a href="/news/world">World<i class="subnav-icon"></i></a> 
+      <div class="subnav double" id="subnav-4"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="/news/world">World Home</a> </li> 
+         <li class=""> <a href="/news/us">U.S.</a> </li> 
+         <li class=""> <a href="/subjects/specialReports">Special Reports</a> </li> 
+         <li class=""> <a href="http://www.reuters.com/investigates">Reuters Investigates</a> </li> 
+         <li class=""> <a href="/subjects/euro-zone">Euro Zone</a> </li> 
+         <li class=""> <a href="/subjects/middle-east">Middle East</a> </li> 
+         <li class=""> <a href="/places/china">China</a> </li> 
+        </ul> 
+        <ul class="subnav-list subnav-list-right"> 
+         <li class=""> <a href="/places/japan">Japan</a> </li> 
+         <li class=""> <a href="/places/mexico">Mexico</a> </li> 
+         <li class=""> <a href="/places/brazil">Brazil</a> </li> 
+         <li class=""> <a href="/places/africa">Africa</a> </li> 
+         <li class=""> <a href="/places/russia">Russia</a> </li> 
+         <li class=""> <a href="/places/india">India</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-5"> <a href="/politics">Politics<i class="subnav-icon"></i></a> 
+      <div class="subnav " id="subnav-5"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="/politics">Politics Home</a> </li> 
+         <li class=""> <a href="http://blogs.reuters.com/talesfromthetrail">Tales from the Trail</a> </li> 
+         <li class=""> <a href="/subjects/supreme-court">Supreme Court</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-6"> <a href="/news/technology">Tech<i class="subnav-icon"></i></a> 
+      <div class="subnav " id="subnav-6"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="/news/technology">Technology Home</a> </li> 
+         <li class=""> <a href="/news/science">Science</a> </li> 
+         <li class=""> <a href="/bizfinance/technology/Top100Innovators">Top 100 Global Innovators</a> </li> 
+         <li class=""> <a href="/news/environment">Environment</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-7"> <a href="http://blogs.reuters.com/us/">Opinion<i class="subnav-icon"></i></a> 
+      <div class="subnav " id="subnav-7"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="http://blogs.reuters.com/us/">Opinion Home</a> </li> 
+         <li class=""> <a href="http://blogs.reuters.com/great-debate">The Great Debate</a> </li> 
+         <li class=""> <a href="http://blogs.reuters.com/data-dive/ ">Data Dive</a> </li> 
+         <li class=""> <a href="http://blogs.reuters.com/morning-bid">Morning Bid</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-8"> <a href="http://blogs.reuters.com/breakingviews/">Breakingviews<i class="subnav-icon"></i></a> 
+      <div class="subnav " id="subnav-8"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="http://blogs.reuters.com/breakingviews/">Breakingviews Home</a> </li> 
+         <li class=""> <a href="/video/breakingviews">Breakingviews Video</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-9"> <a href="/finance/personal-finance">Money<i class="subnav-icon"></i></a> 
+      <div class="subnav " id="subnav-9"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="/finance/personal-finance">Money Home</a> </li> 
+         <li class=""> <a href="/finance/personal-finance/retirement">Retirement</a> </li> 
+         <li class=""> <a href="/subjects/us-lipper-awards">Lipper Awards</a> </li> 
+         <li class=""> <a href="https://commerce.us.reuters.com/purchase/default.do">Analyst Research</a> </li> 
+         <li class=""> <a href="http://alerts.us.reuters.com/US/company.asp">Alerts</a> </li> 
+         <li class=""> <a href="http://portfolio.us.reuters.com/US/watchlist/create.asp">Watchlist</a> </li> 
+         <li class=""> <a href="http://portfolio.us.reuters.com/US/public/index.asp">Portfolio</a> </li> 
+         <li class=""> <a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp">Stock Screener</a> </li> 
+         <li class=""> <a href="http://funds.us.reuters.com/US/screener/screener.asp">Fund Screener</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-10"> <a href="/news/lifestyle">Life<i class="subnav-icon"></i></a> 
+      <div class="subnav " id="subnav-10"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="/news/health">Health</a> </li> 
+         <li class=""> <a href="/news/sports">Sports</a> </li> 
+         <li class=""> <a href="/news/entertainment/arts">Arts</a> </li> 
+         <li class=""> <a href="/news/entertainment">Entertainment</a> </li> 
+         <li class=""> <a href="/news/oddlyEnough">Oddly Enough</a> </li> 
+         <li class=""> <a href="http://blogs.reuters.com/faithworld">Faithworld</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                   " id="nav-item-11"> <a href="/news/pictures">Pictures<i class="subnav-icon"></i></a> 
+      <div class="subnav " id="subnav-11"> 
+       <div class="subnav-inset"> 
+        <ul class="subnav-list subnav-list-left"> 
+         <li class=""> <a href="/news/pictures">Pictures Home</a> </li> 
+         <li class=""> <a href="http://widerimage.reuters.com">The Wider Image</a> </li> 
+         <li class=""> <a href="http://widerimage.reuters.com/photographer">Photographers</a> </li> 
+        </ul> 
+       </div> 
+      </div> </li> 
+     <li class="nav-item
+                                                    no-subnav" id="nav-item-12"> <a href="/video">Video<i class="subnav-icon"></i></a> </li> 
+    </ul> 
+   </div> 
+  </nav> 
+  <section class="info-banner" id="breakingNewsContent"></section> 
+  <div id="content" class="container group">
+   <div class="section bleeding" id="bannerStrip"> 
+    <div class="sectionContent"> 
+     <div class="group wrap"> 
+      <script type="text/javascript">
+    (function() {
+        function loadHorizon() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() {
+            if (typeof oldOnLoad === 'function') {
+                oldOnLoad();
+            }
+            Sailthru.setup({
+                domain: 'horizon.reuters.com',
+                spider: true,
+                concierge: false,
+                useStoredTags: false
+            });
+        };
+    })();
+</script>
+      <div class="linebreak"></div> 
+      <script type="text/javascript">
+$( document ).ready(function() {
+   $('.info-banner').load('/assets/breakingNews');
+});
+</script>
+      <script type="text/javascript">
+Reuters.namespace("info");
+Reuters.info.articleId = 'USKCN0P80XW20150628';
+Reuters.info.articlePartnerURI = '';
+Reuters.info.channel = 'ousivMolt';
+Reuters.info.articleUrl = '/article/2015/06/28/us-eurozone-greece-debt-factbox-idUSKCN0P80XW20150628';
+</script> 
+      <div class="ad" id="leaderboard"> 
+       <script language="javascript" type="text/javascript">
+
+			
+		  var adsrc = 'us.reuters/bizfinance/markets/article;' + 'type=leaderboard;sz=728x90;tile=1;vbc=Fidelity2014;articleID=USKCN0P80XW20150628;' + '';
+		  adsrc = TR3.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		     adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('leaderboard') == false) &&
+		      (typeof (hideAd_19325615) == 'undefined' || hideAd_19325615 == false)) {
+              if (typeof (TR3) !== "undefined") {
+                 TR3.writeDFPURL("http://ad.doubleclick.net/N4735792/adj/" + adsrc);
+              }
+		  }
+
+		  </script> 
+       <noscript> 
+        <a href="http://ad.doubleclick.net/N4735792/jump/us.reuters/bizfinance/markets/article;type=leaderboard;sz=728x90;tile=1;vbc=Fidelity2014;articleID=USKCN0P80XW20150628;ord=7696?" target="_blank"> <img src="http://ad.doubleclick.net/N4735792/ad/us.reuters/bizfinance/markets/article;type=leaderboard;sz=728x90;tile=1;vbc=Fidelity2014;articleID=USKCN0P80XW20150628;ord=7696?" width="728" height="90" border="0" alt="" /> </a> 
+       </noscript> 
+       <meta name="DCSext.VBC" content="Fidelity2014" /> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="section bleeding" id="subBannerStrip"> 
+    <div class="sectionContent"> 
+     <div class="group wrap"> 
+      <span name="trackingEnabledModule" modulename="test1" moduleid="19325616"> <script language="javascript">addImpression("19325616_test1");</script> </span> 
+      <span name="trackingEnabledModule" modulename="test2" moduleid="19325617"> <script language="javascript">addImpression("19325617_test2");</script> 
+       <!-- overrideType can be "video" --> </span> 
+      <div id="freqCap_poe" style="display:none;"> 
+       <div id="poeContainer" class="poeContainer"> 
+        <div class="ad" id="poe"> 
+         <script language="javascript" type="text/javascript">
+
+			
+		  var adsrc = 'us.reuters/bizfinance/markets/article;' + 'type=poe;sz=1x1;articleID=USKCN0P80XW20150628;taga=aaaaaaaaa;' + '';
+		  adsrc = TR3.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		     adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ( typeof(freqCap_poe) == 'undefined' || freqCap_poe == null ) {
+		      try { console.debug("frequency manager: %s is undefined, could be channel include/exclude or scheduling", 'freqCap_poe') } catch(e) {};
+		  }
+		  if ( typeof(freqCap_poe) != 'undefined' &&
+		       ((typeof(freqCap_poe.isAdNeeded) != 'undefined' && freqCap_poe.isAdNeeded()) ||
+		        (typeof(freqCap_poe.isDefaultAdNeeded) != 'undefined' && freqCap_poe.isDefaultAdNeeded()))) {
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('poe') == false) &&
+		      (typeof (hideAd_19325545) == 'undefined' || hideAd_19325545 == false)) {
+              if (typeof (TR3) !== "undefined") {
+                 TR3.writeDFPURL("http://ad.doubleclick.net/N4735792/adj/" + adsrc);
+              }
+		  }
+
+		  
+		  }
+		  </script> 
+         <noscript> 
+          <a href="http://ad.doubleclick.net/N4735792/jump/us.reuters/bizfinance/markets/article;type=poe;sz=1x1;articleID=USKCN0P80XW20150628;taga=aaaaaaaaa;ord=6899?" target="_blank"> <img src="http://ad.doubleclick.net/N4735792/ad/us.reuters/bizfinance/markets/article;type=poe;sz=1x1;articleID=USKCN0P80XW20150628;taga=aaaaaaaaa;ord=6899?" width="1" height="1" border="0" alt="" /> </a> 
+         </noscript> 
+         <meta name="DCSext.VBC" content="Fidelity2014" /> 
+        </div> 
+       </div> 
+      </div> 
+      <script type="text/javascript">
+	if ( typeof(freqCap_poe) != 'undefined' && 
+       ((typeof(freqCap_poe.isAdNeeded) != 'undefined' && (freqCap_poe.isAdNeeded())) || 
+       (typeof(freqCap_poe.isDefaultAdNeeded) != 'undefined' && freqCap_poe.isDefaultAdNeeded()))) {
+	    document.getElementById('freqCap_poe').style.display = 'block';
+	}
+</script> 
+      <div class="linebreak"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="section main-content" id="articleContent"> 
+    <div class="sectionContent"> 
+     <div class="group wrap"> 
+      <div class="article-header"> 
+       <span class="article-section">Markets</span> 
+       <span class="divider"> | </span> 
+       <span class="timestamp">Sun Jun 28, 2015 3:02pm EDT</span> 
+       <div class="related-topics"> 
+        <span class="related-topics-title">Related: </span> 
+        <span> <a href="/places/germany">Germany, </a> <a href="/places/greece">Greece, </a> <a href="/subjects/imf">IMF</a> </span> 
+       </div> 
+       <h1 class="article-headline">How much Greece owes to international creditors</h1> 
+       <div class="article-info"> 
+        <span class="location">BRUSSELS</span> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="section"> 
+    <div class="sectionContent"> 
+     <div class="group wrap"> 
+      <div class="column1 grid8 grid-inside"> 
+       <div class="reuters-share " data-share-short-url="http://reut.rs/1JgxBvC" data-share-url="http://www.reuters.com/article/2015/06/28/us-eurozone-greece-debt-factbox-idUSKCN0P80XW20150628" data-share-title="How much Greece owes to international creditors" data-share-desc="BRUSSELS (Reuters) - Greece, which may default on an International Monetary Fund debt repayment due on Tuesday after talks with creditors broke down, owes its official lenders 242.8 billion euros ($271 billion), according to a Reuters calculation" data-share-img="" data-share="twitter,facebook,linkedin,reddit,google,mailArticle" data-share-id="USKCN0P80XW20150628"> 
+       </div> 
+       <div id="relatedInlineVideo">
+        <script type="text/javascript" src="http://s1.reutersmedia.net/resources_v2/js/yoplayer-2.1-42.js"></script> 
+        <script type="text/javascript" src="http://s1.reutersmedia.net/resources_v2/js/article_video_plugin.js"></script> 
+        <script type="text/javascript" src="http://s1.reutersmedia.net/resources_v2/js/article-yoplayer.js"></script> 
+        <script type="text/javascript">
+Reuters.namespace("yospace");
+Reuters.yospace.width=644;
+Reuters.yospace.height=362;
+Reuters.yospace.adtype="article_preroll";
+Reuters.yospace.debug="false";
+Reuters.yospace.console_debug="false";
+Reuters.yospace.autoplay="false";
+Reuters.yospace.footspace=43;
+Reuters.yospace.embed="true";
+if (typeof Reuters.inlinevideo !== 'undefined') {
+
+Reuters.yospace.miid=Reuters.inlinevideo.flashVideoSource.split("?f=")[0].split(",/")[1];
+Reuters.yospace.fid=Reuters.inlinevideo.flashVideoSource.split("?f=")[1];
+
+}
+Reuters.yospace.yoVersion="2.1-42";
+Reuters.yospace.videoFrameSize="644x362";
+Reuters.yospace.startlevel=2;
+</script> 
+        <script type="text/javascript">
+
+Reuters.utils.getMetaValue = function(mn) {
+	if (mn != '') {
+		var mts = document.getElementsByTagName("meta");
+		for (i=0; i<mts.length; i++) {
+			mt = mts[i];
+			if (mt.getAttribute("name") == mn) {
+				return mt.getAttribute("content");
+				break;
+			}
+		}
+		return '';
+	}
+}
+
+Reuters.namespace("inlinevideo");
+if (typeof Reuters.inlinevideo.id == "undefined") {
+	Reuters.inlinevideo.id = '';
+}
+if (typeof Reuters.inlinevideo.videoGroup == "undefined") {
+	Reuters.inlinevideo.videoGroup = '';
+}
+if (typeof Reuters.inlinevideo.youtubeVideoId == "undefined") {
+	Reuters.inlinevideo.youtubeVideoId = '';
+}
+if (typeof Reuters.inlinevideo.storyUrl == "undefined") {
+	Reuters.inlinevideo.storyUrl = '';
+}
+Reuters.inlinevideo.spParam = Reuters.utils.getQueryStringParameter(Reuters.inlinevideo.storyUrl, "sp");
+
+if (typeof Reuters.inlinevideo.spParam == "undefined") {
+	Reuters.inlinevideo.spParam = '';
+}
+
+if( Reuters.utils.getMetaValue("DCSext.VBC") == "undefined" ) {
+	vbcValue = '';
+} else {
+	vbcValue = Reuters.utils.getMetaValue("DCSext.VBC");
+}
+
+Reuters.namespace("yospace");
+
+if ($('#TPHost_lb_synced').length) {
+  Reuters.yospace.adtype="_no_preroll";
+}
+else if($('#TPHost_lbskin').length) {
+  Reuters.yospace.adtype="_no_preroll";
+}
+
+Reuters.yovideo.drawPlayer({
+    'width': Reuters.yospace.width,
+    'height': Reuters.yospace.height,
+    'edition': Reuters.inlinevideo.edition,
+    'channelId': Reuters.inlinevideo.channelId,
+    'adType': Reuters.yospace.adtype,
+    'id': Reuters.inlinevideo.id,
+    'debug': Reuters.yospace.debug,
+    'console_debug': Reuters.yospace.console_debug,
+    'autoplay': Reuters.yospace.autoplay,
+    'footspace': Reuters.yospace.footspace,
+    'description': Reuters.inlinevideo.bodyText,
+    'nextVideoUrl': '',
+    'channelName' : Reuters.inlinevideo.channelName,
+    'title':  Reuters.inlinevideo.title,
+    'flv': Reuters.inlinevideo.flashVideoSource,
+    'mpeg': '',
+    'minutes': Reuters.inlinevideo.length,
+    'seconds': Reuters.inlinevideo.lengthseconds,
+    'position': 0,
+    'embed': Reuters.yospace.embed,
+    'adfriendly': Reuters.inlinevideo.adfriendly,
+    'miid' : Reuters.yospace.miid,
+    'fid' : Reuters.yospace.fid,
+    'kseg': (typeof(kseg)=='undefined'?'':kseg),
+    'kuid': (typeof(kuid)=='undefined'?'':kuid),
+    'seg' : (typeof(seg)=='undefined'?'':seg),
+    'keywords':  Reuters.inlinevideo.keywords,
+    'adIuUrl': Reuters.inlinevideo.adIuUrl,
+    'yoVersion': Reuters.yospace.yoVersion,
+    'videoFrameSize': Reuters.yospace.videoFrameSize,
+    'dartZone': Reuters.inlinevideo.dartZone,
+    'rChannel': Reuters.inlinevideo.rChannel,
+    'requestUrl' : Reuters.inlinevideo.requestUrl,
+    'vbc' : vbcValue,
+    'startlevel' : Reuters.yospace.startlevel,
+    'source' : Reuters.inlinevideo.source,
+    'moreVideoTitles': Reuters.inlinevideo.moreVideoTitles,
+    'moreVideoImages': Reuters.inlinevideo.moreVideoImages,
+    'moreVideoHrefs': Reuters.inlinevideo.moreVideoHrefs
+});
+
+if (Reuters.inlinevideo.id != '') {
+        Reuters.info = Reuters.info || {};
+        Reuters.info.edition     = Reuters.info.edition || $('body').attr('class').split(' ')[0];
+	Reuters.info.editionPrefix = 'US';
+	if (Reuters.info.edition != 'BETAUS') {
+		Reuters.info.editionPrefix = Reuters.info.edition.toUpperCase();
+	}
+
+        document.write('<div class="article-video-inline"><div id="article_video_player"></div></div>');
+}
+</script> 
+       </div>
+       <span id="articleText"> <span id="midArticle_start"></span> <span class="focusParagraph"><p><span class="articleLocation">BRUSSELS</span> Greece, which may default on an International Monetary Fund debt repayment due on Tuesday after talks with creditors broke down, owes its official lenders 242.8 billion euros ($271 billion), according to a Reuters calculation based on official data, with Germany by far the largest creditor.</p></span><span id="midArticle_0"></span><p>That figure includes loans made under two bailouts from European governments and the IMF since 2010 -- worth a nominal 220 billion euros so far, of which some has been repaid -- as well as Greek government bonds held by the European Central Bank and national central banks in the euro zone.</p><span id="midArticle_1"></span><p>Private investors hold 38.7 billion euros of Greek government bonds following a major write-down and debt swap in 2012 that reduced the Greek debt stock by 107 billion euros and the value of private holdings by an estimated 75 percent.</p><span id="midArticle_2"></span><p>The Greek government has also issued 15 billion euros in short-term Treasury bills, mostly to Greek banks.</p><span id="midArticle_3"></span><p>Here is a breakdown of the country's foreign debt stock:</p><span id="midArticle_4"></span><p></p><span id="midArticle_5"></span><p>IMF - Greece was promised a total of 48.1 billion euros by the IMF, of which 16.3 billion was still to come by March 2016 if Athens successfully completed the second economic adjustment program. It had serviced and repaid loans on time up to this month, when it used an obscure IMF provision to bundle together four payments totaling 1.6 billion euros for payment by the end of June. The older IMF loans carry an interest rate of 3.5 percent, higher than the euro zone rescue fund charges.</p><span id="midArticle_6"></span> <span class="first-article-divide"></span><p></p><span id="midArticle_7"></span><p>ECB - The ECB owns roughly 18 billion euros of Greek bonds, which would probably be worth a fraction of their face value should the country leave the euro zone, with 6.7 billion euros maturing in July and August.</p><span id="midArticle_8"></span><p>Beyond a default on Greece's national debt, any exit of Greece from the euro zone would lumber the European Central Bank with a huge bill for lost credit. ECB President Mario Draghi recently said that Greek banks had tapped 118 billion euros of central bank liquidity. That includes 89 billion in what is known as Emergency Liquidity Assistance (ELA). That remains the responsibility of the country's central bank but only if Greece stays in the euro. Were it to leave, the bill would rebound on other euro countries, including Germany.</p><span id="midArticle_9"></span> <span class="second-article-divide"></span><p>In addition about 45 billion euros of banknotes in Greece represents another liability, being a claim that the wider Eurosystem of central banks would be obliged to honor.</p><span id="midArticle_10"></span><p></p><span id="midArticle_11"></span><p>THE EURO ZONE - Euro zone governments gave Greece 52.9 billion euros in bilateral loans under the first bailout agreed in 2010, known as the Greek Loan Facility. Under the second bailout agreed in 2012 Athens has so far received 141.8 billion euros from the euro zone's financial rescue fund. It had been due a further 1.8 billion euros by June 30 if it met conditions but barring major surprises that is off the table.</p><span id="midArticle_12"></span> <span class="third-article-divide"></span><p>Of the biggest euro zone members, Germany's exposure for the two bailouts totals 57.23 billion euros, France's is 42.98 billion, Italy's is 37.76 billion and Spain's 25.1 billion. That is in addition to their contributions to the IMF loans, commensurate with their respective quotas in the global lender. </p><span id="midArticle_13"></span><p>Euro zone countries have already extended the maturities of their loans to Greece from 15 to 30 years and reduced the interest rates on some to just 0.5 basis points above their borrowing cost. They also granted Greece a 10-year moratorium on interest payments on the second bailout loan from the euro zone rescue fund.</p><span id="midArticle_14"></span><p>Greece has asked for further debt relief from the Europeans, a move supported by the IMF. But euro zone governments have said they would only discuss that if Athens further tightens its budget.</p><span id="midArticle_15"></span><p></p><span id="midArticle_0"></span><p></p><span id="midArticle_1"></span><p> (Reporting by Alexander Saeedy and <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=john.odonnell&amp;">John O'Donnell</a>; Writing by Paul Taylor; Editing by <a href="http://blogs.reuters.com/search/journalist.php?edition=us&amp;n=alastair.macdonald&amp;">Alastair Macdonald</a> and Greg Mahlich)</p><span id="midArticle_2"></span></span> 
+       <div class="linebreak"></div> 
+       <div class="linebreak"></div> 
+       <div class="reuters-share " data-share-short-url="http://reut.rs/1JgxBvC" data-share-url="http://www.reuters.com/article/2015/06/28/us-eurozone-greece-debt-factbox-idUSKCN0P80XW20150628" data-share-title="How much Greece owes to international creditors" data-share-desc="BRUSSELS (Reuters) - Greece, which may default on an International Monetary Fund debt repayment due on Tuesday after talks with creditors broke down, owes its official lenders 242.8 billion euros ($271 billion), according to a Reuters calculation" data-share-img="" data-share="twitter,facebook,linkedin,reddit,google,mailArticle" data-share-id="USKCN0P80XW20150628"> 
+       </div> 
+       <div class="group module-biz-dev-mid"> 
+        <div id="taboola-bmc" class="module-biz-dev-middle" style="float:left;width:315px;margin-top:-1px;"></div> 
+        <div style="float:left;width:315px;margin-left:10px"> 
+         <iframe valign="middle" width="315" height="295" marginheight="0" marginwidth="0" frameborder="0" vspace="0" hspace="0" scrolling="NO" src="http://www.smartlinks.dianomi.com/smartads.epl?id=1734"></iframe> 
+        </div> 
+       </div>
+       <div id="taboola-below-main-column" class="module-photo-links"></div>
+       <div class="module-biz-dev"> 
+        <script type="text/javascript">
+    var tester = TR3.getURLQueryParameterByName("adstest");
+    if (!tester) {
+        var dfpzone = TR3.extractDartZone () + ";adstest\x3d" + tester
+
+         console.info("Bizdev ad call :  "+"http:\/\/ad.doubleclick.net\/N4735792\/adj\/" + dfpzone + ";type=BizDev_Article_SP3;sz=610x1");
+          TR3.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/" + dfpzone + ";type=BizDev_Article_SP3;sz=610x1");
+       }  else {
+           TR3.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/us.reuters;type=BizDev_Article_SP3;sz=610x1");
+       }
+</script> 
+       </div>
+      </div> 
+      <div class="column2 grid4"> 
+       <span name="trackingEnabledModule" modulename="AL-CMS Packaged Feature" moduleid="19325633"> <script language="javascript">addImpression("19325633_AL-CMS Packaged Feature");</script> 
+        <div id="specialFeature">
+         <div class="assetBuddy" name="greece_ss"> 
+          <span name="trackingEnabledModule" modulename="E0630151444_547767"><script language="javascript">addImpression("E0630151444_547767");</script>
+           <div class="module">
+            <div class="moduleHeader">
+             <h3><a href="http://www.reuters.com/news/picture/greek-banks-closed-for-business?articleId=USRTX1I9G3">In photos: Greek banks closed</a></h3>
+            </div>
+            <div class="moduleBody">
+             <div class="gallery feature">
+              <div class="photo">
+               <table cellpadding="0" cellspacing="0" border="0">
+                <tbody>
+                 <tr>
+                  <td valign="middle"><a href="http://www.reuters.com/news/picture/greek-banks-closed-for-business?articleId=USRTX1I9G3">
+                    <div class="slideshowOverlay"></div><img src="http://s2.reutersmedia.net/resources/media/global/assets/images/20150629/20150629_4321750920150629144547.jpg" alt="Pensioners line-up outside a branch of the National Bank of Greece hoping to get their pensions, in Athens, Greece June 29, 2015. Greece closed its banks and imposed capital controls on Sunday to check the growing strains on its crippled financial system, bringing the prospect of being forced out of the euro into plain sight. REUTERS/Yannis Behrakis" title="Pensioners line-up outside a branch of the National Bank of Greece hoping to get their pensions, in Athens, Greece June 29, 2015. Greece closed its banks and imposed capital controls on Sunday to check the growing strains on its crippled financial system, bringing the prospect of being forced out of the euro into plain sight. REUTERS/Yannis Behrakis" border="0" /></a></td>
+                 </tr>
+                </tbody>
+               </table>
+              </div>
+              <p>Greeks woke up to shuttered banks, closed cash machines as a breakdown in talks between Athens and its creditors plunged the country deep into crisis.&nbsp; <span class="inlineLinks"><a href="http://www.reuters.com/news/picture/greek-banks-closed-for-business?articleId=USRTX1I9G3">Slideshow</a></span>&nbsp;</p>
+             </div>
+            </div>
+           </div></span>
+         </div> 
+        </div></span> 
+       <span name="trackingEnabledModule" modulename="Editorial Module" moduleid="19454081"> <script language="javascript">addImpression("19454081_Editorial Module");</script> 
+        <div class="linebreak"></div> </span> 
+       <div id="ad-div-mpu">
+        <div class="ad" id="mpu"> 
+         <script language="javascript" type="text/javascript">
+
+			
+		  var adsrc = 'us.reuters/bizfinance/markets/article;' + 'type=mpu;sz=300x250;tile=2;vbc=Fidelity2014;articleID=USKCN0P80XW20150628;' + '';
+		  adsrc = TR3.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		     adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('mpu') == false) &&
+		      (typeof (hideAd_19325630) == 'undefined' || hideAd_19325630 == false)) {
+              if (typeof (TR3) !== "undefined") {
+                 TR3.writeDFPURL("http://ad.doubleclick.net/N4735792/adj/" + adsrc);
+              }
+		  }
+
+		  </script> 
+         <noscript> 
+          <a href="http://ad.doubleclick.net/N4735792/jump/us.reuters/bizfinance/markets/article;type=mpu;sz=300x250;tile=2;vbc=Fidelity2014;articleID=USKCN0P80XW20150628;ord=1375?" target="_blank"> <img src="http://ad.doubleclick.net/N4735792/ad/us.reuters/bizfinance/markets/article;type=mpu;sz=300x250;tile=2;vbc=Fidelity2014;articleID=USKCN0P80XW20150628;ord=1375?" width="300" height="250" border="0" alt="" /> </a> 
+         </noscript> 
+         <meta name="DCSext.VBC" content="Fidelity2014" /> 
+        </div> 
+       </div>
+       <div id="most-popular-parsely">
+        <div class="moduleHeader">
+         <h3>Trending On Reuters</h3>
+        </div>
+        <div class="columnLeft">
+         <div id="mostPopularRead">
+          <div id="parselyArticles">
+           <div class="module">
+            <div class="moduleBody">
+             <ul></ul>
+            </div>
+            <div id="parselyArticlesRemark"></div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <script type="text/javascript">
+        var video_btn_url = '<img src="http://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" border="0" height="11px" width="43px" alt="Video" />';
+        var _raw_json_note = "not in use for this version";
+	var max_json_num = 5;
+	var filter_str = "/news/pictures";
+	var filter_arr = [];
+        filter_arr = filter_str.split(",");
+ 
+	var parselyObjects= [{"data":[{"tags":["Corporate Events","Reports","United States","US","English","STOCKS","MARKETS","Equities Markets","Market Reports"],"_hits":110734,"pub_date":"2015-07-08T11:33:30","link":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-markets-stocks-idUSKCN0PI19Y20150708","video_link":"","section":"Finance - Business News","url":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-markets-stocks-idUSKCN0PI19Y20150708","authors":["Tanya Agrawal"],"author":"Tanya Agrawal","title":"Wall St. sharply lower on China fears","image_url":"http:\/\/s3.reutersmedia.net\/resources\/r\/?m=02&d=20150708&t=2&i=1062528456&w=&fh=545px&fw=&ll=&pl=&r=LYNXNPEB670HM","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_ea623f2e3d708a08cacff83e9321cdb22c190dd8.jpg","metadata":""},{"tags":["TWC","Broadcasting (TRBC)","Corporate Events","Living \/ Lifestyle","Technology Equipment (TRBC)","US","Media \/ Publishing (Legacy)","United States","Telecommunications Services (TRBC)","Regulation","Crime \/ Law \/ Justice","Company News","ROBOCALLS","Texas","Corporate Litigation","Judicial Process \/ Court Cases \/ Court Decisions","Human Interest \/ Brights \/ Odd News","Arts \/ Culture \/ Entertainment","Lawmaking","Media and Publishing (TRBC)"],"_hits":52206,"pub_date":"2015-07-07T21:52:47","link":"http:\/\/www.reuters.com\/article\/2015\/07\/07\/us-twc-robocalls-idUSKCN0PH2H920150707","video_link":"","section":"News - Lifestyle","url":"http:\/\/www.reuters.com\/article\/2015\/07\/07\/us-twc-robocalls-idUSKCN0PH2H920150707","authors":["Jonathan Stempel"],"author":"Jonathan Stempel","title":"Time Warner Cable owes $229,500 to woman it would not stop calling","image_url":"http:\/\/s4.reutersmedia.net\/resources\/r\/?m=02&d=20150707&t=2&i=1062368593&w=&fh=545px&fw=&ll=&pl=&r=LYNXNPEB6613W","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_d1474d89de8918b00ee8614c305b634ecae16b6b.jpg","metadata":""},{"tags":["China (PRC)","Corporate Events","Major News","Financial and Commodity Market Operators (TRBC)","Reports","Banking and Investment Services (TRBC)","English","Economic Events","US","CHINA","Equities Markets","Emerging Market Countries","Market Events","STOCKS","Hong Kong","Asia \/ Pacific","Company News","Market Reports"],"_hits":44440,"pub_date":"2015-07-08T04:49:45","link":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-china-stocks-idUSKCN0PI04Q20150708","video_link":"","section":"Finance - Markets","url":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-china-stocks-idUSKCN0PI04Q20150708","authors":["Staff"],"author":"Staff","title":"China stock market freezing up as sell-off gathers pace","image_url":"http:\/\/s4.reutersmedia.net\/resources\/r\/?m=02&d=20150708&t=2&i=1062442442&w=&fh=545px&fw=&ll=&pl=&r=LYNXNPEB6703X","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_c9103af25680c581b409d7058739e38261e2d72c.jpg","metadata":""},{"tags":["Airlines (TRBC)","Tourism \/ Travel","Corporate Events","Major News","US","United States","FLIGHTS","UAL","Retail \/ Wholesale Sales","Arts \/ Culture \/ Entertainment","Company News"],"_hits":29384,"pub_date":"2015-07-08T13:05:06","link":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-ual-flights-idUSKCN0PI1IX20150708","video_link":"http:\/\/www.reuters.com\/article\/video\/idUSKCN0PI1IX20150708?videoId=364873578","section":"News - US","url":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-ual-flights-idUSKCN0PI1IX20150708","authors":["Staff"],"author":"Staff","title":"Computer glitch halts United Airlines flights for two hours","image_url":"http:\/\/s4.reutersmedia.net\/resources\/r\/?m=02&d=20150708&t=2&i=1062554475&w=&fh=545px&fw=&ll=&pl=&r=LYNXNPEB670NR","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_a7bf04d76a84ce521371f7e2cae65e8c5f5aa8ff.jpg","metadata":""},{"tags":["Central Banks \/ Central Bank Events","EUROZONE","National Government Debt","Government \/ Politics","Euro Zone as a Whole","Euro Zone","Banks (TRBC)","Equities Markets","Europe","Financials (TRBC)","Banking Services (Legacy)","Banking and Investment Services (TRBC)","Debt \/ Fixed Income Markets","Banking Services (TRBC)","Germany","General News","Central \/ Eastern Europe","Major News","South-Eastern Europe","GREECE\/LATEST","European Union","Government Finances","International Monetary Fund","Corporate Events","Economic Events","Financials (Legacy)","European Central Bank","Greece","Western Europe","Diplomacy \/ Foreign Policy"],"_hits":19623,"pub_date":"2015-07-08T08:28:55","link":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/eurozone-greece-latest-idUSL8N0ZM3OK20150708","video_link":"","section":"Finance - Bonds","url":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/eurozone-greece-latest-idUSL8N0ZM3OK20150708","authors":["Staff"],"author":"Staff","title":"GREECE LATEST-Banks face closures, bailout or not - sources","image_url":"","thumb_url_medium":"","metadata":""},{"tags":["EUROZONE","US","GREECE"],"_hits":17200,"pub_date":"2015-07-08T00:35:28","link":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-eurozone-greece-idUSKBN0P40EO20150708","video_link":"http:\/\/www.reuters.com\/article\/video\/idUSKBN0P40EO20150708?videoId=364876494","section":"Finance - Markets","url":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-eurozone-greece-idUSKBN0P40EO20150708","authors":["Paul Taylor and Renee Maltezou"],"author":"Paul Taylor and Renee Maltezou","title":"Greece seeks new EU loan deal in race to avert collapse","image_url":"http:\/\/s2.reutersmedia.net\/resources\/r\/?m=02&d=20150707&t=2&i=1062361534&w=&fh=545px&fw=&ll=&pl=&r=LYNXNPEB6613D","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_5e14d6c2bd75d0ac68da0f6d8d7d49d69c92d7f3.jpg","metadata":""},{"tags":["Major News","Communications Equipment (TRBC)","Technology (TRBC)","Europe","Results Forecasts \/ Warnings","Labour \/ Personnel","Technology \/ Media \/ Telecoms","Telecommunications Services (TRBC)","Software and IT Services (TRBC)","Computer Hardware (TRBC)","Science","Finland","United States","REDUNDANCIES","Software (TRBC)","Restructuring \/ Reorganization","MICROSOFT","Company News","Corporate Events","IT Services and Consulting (TRBC)","US","Corporate Governance","Financials (Legacy)"],"_hits":16410,"pub_date":"2015-07-08T10:05:04","link":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-microsoft-redundancies-idUSKCN0PI0GL20150708","video_link":"http:\/\/www.reuters.com\/article\/video\/idUSKCN0PI0GL20150708?videoId=364875078","section":"Finance - Technology","url":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-microsoft-redundancies-idUSKCN0PI0GL20150708","authors":["Staff"],"author":"Staff","title":"Microsoft hangs up on Nokia business, to cut 7,800 jobs","image_url":"http:\/\/s2.reutersmedia.net\/resources\/r\/?m=02&d=20150708&t=2&i=1062506099&w=&fh=545px&fw=&ll=&pl=&r=LYNXNPEB6706E","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_5965174c54ac2f98f906df388c6cf86e4dce2bee.jpg","metadata":""},{"tags":["Company News","US","Corporate Events","EXC","Financial and Commodity Market Operators (TRBC)","Diversified Investment Services (TRBC)","Reports","United States","TRADING","INTERCONTI","English","Equities Markets","NYSE"],"_hits":11030,"pub_date":"2015-07-08T15:56:49","link":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-interconti-exc-nyse-trading-idUSKCN0PI1ZF20150708","video_link":"","section":"Finance - Business News","url":"http:\/\/www.reuters.com\/article\/2015\/07\/08\/us-interconti-exc-nyse-trading-idUSKCN0PI1ZF20150708","authors":["Staff"],"author":"Staff","title":"NYSE suspends trading of all securities due to technical problems","image_url":"http:\/\/s3.reutersmedia.net\/resources\/r\/?m=02&d=20150708&t=2&i=1062598558&w=&fh=545px&fw=&ll=&pl=&r=LYNXNPEB670U6","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_15322fd94ee12e448bdcd760b5d3c7701e735375.jpg","metadata":""},{"tags":["Europe","Children \/ Youth Issues","USA","Privacy \/ Data Protection","CHILDPORN","Science","US","CRIME","United States","Regulation","New York","Crime \/ Law \/ Justice","Computer Crime \/ Hacking \/ Cybercrime","New York City","Judicial Process \/ Court Cases \/ Court Decisions","Crime","Arts \/ Culture \/ Entertainment","Internet \/ World Wide Web"],"_hits":10853,"pub_date":"2015-07-07T18:12:30","link":"http:\/\/www.reuters.com\/article\/2015\/07\/07\/us-usa-crime-childporn-idUSKCN0PH24C20150707","video_link":"","section":"News - US","url":"http:\/\/www.reuters.com\/article\/2015\/07\/07\/us-usa-crime-childporn-idUSKCN0PH24C20150707","authors":["Nate Raymond"],"author":"Nate Raymond","title":"FBI seized child porn website with 215,000 users: court filing","image_url":"","thumb_url_medium":"","metadata":""},{"tags":["ukraine","international monetary fund","asian infrastructure investment bank","new development bank","china","brics summit","russia","siberia"],"_hits":10831,"pub_date":"2015-07-08T05:00:49","link":"http:\/\/blogs.reuters.com\/great-debate\/2015\/07\/08\/why-russias-turn-to-china-is-a-mirage\/","video_link":"","section":"General","url":"http:\/\/blogs.reuters.com\/great-debate\/2015\/07\/08\/why-russias-turn-to-china-is-a-mirage\/","authors":["Björn Düben"],"author":"Björn Düben","title":"","image_url":"","thumb_url_medium":"","metadata":""}]}];
+	
+		if (typeof Reuters.parsely.parseParsely == 'function') { Reuters.parsely.parseParsely(parselyObjects); } 
+	</script> 
+       </div>
+       <div class="RTVSyndicatedPlayer" style="width:300px;"></div> 
+       <script type="text/javascript" src="//cdnstatic.reuters.tv/clientJs/?files=public/syndicatedPlayerClient/js/syndicatedPlayerSetup(source)V02.js"></script> 
+       <script type="text/javascript">
+jQuery(document).ready(function() { 
+    var playerH = new reutersTV({
+      adTag:"https://pubads.g.doubleclick.net/gampad/ads?sz=3x3&iu=/4735792/Reuters_TV_Syndicated_Page&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url="+ document.referrer + "&description_url=reuters.tv&correlator=" + Math.floor(Date.now() / 1000),//expects String url ad tag
+      fontElClass:"textEl", //expects String element class it will grab first element font-family if there more then one element with the same classname
+      playerClass:"RTVSyndicatedPlayer", //expects String classname of the container for ReutersTV Syndicated player
+      publisherId:21214
+    });
+});
+</script>
+       <div class="linebreak"></div> 
+       <div class="module">
+        <script type="text/javascript">
+   
+      var tester = TR3.getURLQueryParameterByName("adstest");
+      
+
+      if (!tester) {
+		  var dfpzone = TR3.extractDartZone ();
+         TR3.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/"+dfpzone+";type=BizDev_Article_RR2;sz=300x1");
+       }  else {
+		   
+		   var dfpzone = TR3.extractDartZone () + ";adstest\x3d" + tester;
+           TR3.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/"+dfpzone+";type=BizDev_Article_RR2;sz=300x1");
+       }
+console.info("Bizdev ad call :  "+"http:\/\/ad.doubleclick.net\/N4735792\/adj\/"+dfpzone+";type=BizDev_Article_RR2;sz=300x1");
+       
+</script>
+       </div>
+       <span name="trackingEnabledModule" modulename="Editorial Module" moduleid="19454271"> <script language="javascript">addImpression("19454271_Editorial Module");</script> 
+        <div class="linebreak"></div> </span> 
+       <script type="text/javascript">
+	Reuters.namespace("info");
+	Reuters.info.outbrain_env = 'produsx';
+</script> 
+       <div id="taboola-right-rail-video" class="module"></div> 
+       <script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({mode:'thumbs-2r-rr', container:'taboola-right-rail-video', placement:'right-rail', target_type:'video'});
+</script> 
+       <div id="bankrate" class="module">
+        <script src="http://www.bankrate.com/jsfeeds/reut-tabs-markets-story.js" type="text/javascript"></script>
+        <script type="text/javascript">setTabsC("BRtab1C");</script> 
+       </div>
+       <div id="bankrate" class="module">
+        <!--
+		  SHARED MODULE ID: "638729" hidden for channel: true
+		    channel: ousivMolt
+		    include chans: [PersonalFinance, Retirement], empty: false
+		    exclude chans: , empty: true
+		--> 
+       </div>
+       <div class="module"> 
+        <script type="text/javascript">
+   
+      var tester = TR3.getURLQueryParameterByName("adstest");
+      
+
+      if (!tester) {
+		  var dfpzone = TR3.extractDartZone ();
+         TR3.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/"+dfpzone+";type=BizDev_Article_RR1;sz=300x1");
+       }  else {
+		   
+		   var dfpzone = TR3.extractDartZone () + ";adstest\x3d" + tester;
+           TR3.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/"+dfpzone+";type=BizDev_Article_RR1;sz=300x1");
+       }
+console.info("Bizdev ad call :  "+"http:\/\/ad.doubleclick.net\/N4735792\/adj\/"+dfpzone+";type=BizDev_Article_RR1;sz=300x1");
+       
+</script>
+       </div>
+       <div class="ad" id="mpulow"> 
+        <script language="javascript" type="text/javascript">
+
+			
+		  var adsrc = 'us.reuters/bizfinance/markets/article;' + 'type=mpulow;sz=300x250;tile=3;articleID=USKCN0P80XW20150628;' + '';
+		  adsrc = TR3.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		     adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('mpulow') == false) &&
+		      (typeof (hideAd_19325546) == 'undefined' || hideAd_19325546 == false)) {
+              if (typeof (TR3) !== "undefined") {
+                 TR3.writeDFPURL("http://ad.doubleclick.net/N4735792/adj/" + adsrc);
+              }
+		  }
+
+		  </script> 
+        <noscript> 
+         <a href="http://ad.doubleclick.net/N4735792/jump/us.reuters/bizfinance/markets/article;type=mpulow;sz=300x250;tile=3;articleID=USKCN0P80XW20150628;ord=7958?" target="_blank"> <img src="http://ad.doubleclick.net/N4735792/ad/us.reuters/bizfinance/markets/article;type=mpulow;sz=300x250;tile=3;articleID=USKCN0P80XW20150628;ord=7958?" width="300" height="250" border="0" alt="" /> </a> 
+        </noscript> 
+        <meta name="DCSext.VBC" content="Fidelity2014" /> 
+       </div> 
+       <div class="linebreak"></div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <footer> 
+   <div class="footer-top group"> 
+    <div class="wrap"> 
+     <div class="grid10 grid-inside"> 
+      <a href="" class="footer-logo">Reuters</a> 
+     </div> 
+     <div class="grid2"> 
+      <a href="#top" class="footer-backtotop">Back to top</a> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="footer-bottom group"> 
+    <div class="wrap footer-links"> 
+     <ul class="horizontal-list"> 
+      <li>Reuters.com</li> 
+      <li><a href="http://www.reuters.com/finance">Business</a></li> 
+      <li><a href="http://www.reuters.com/finance/markets">Markets</a></li> 
+      <li><a href="http://www.reuters.com/news/world">World</a></li> 
+      <li><a href="http://www.reuters.com/news/politics">Politics</a></li> 
+      <li><a href="http://www.reuters.com/news/technology">Technology</a></li> 
+      <li><a href="http://blogs.reuters.com/us/">Opinion</a></li> 
+      <li><a href="http://www.reuters.com/finance/personal-finance">Money</a></li> 
+      <li><a href="http://www.reuters.com/news/pictures">Pictures</a></li> 
+      <li><a href="http://www.reuters.com/news/video">Videos</a></li> 
+      <li><a href="http://www.reuters.com/assets/siteindex">Site Index</a></li> 
+     </ul> 
+     <ul class="horizontal-list"> 
+      <li>More from Reuters</li> 
+      <li><a href="http://thomsonreuters.com/news-services/">Reuters News Agency</a></li> 
+      <li><a href="http://thomsonreuters.com/site/reuters-brand-attribution-guidelines/">Brand Attribution Guidelines</a></li> 
+      <li><a href="http://thomsonreuters.com/site/delivery-options/">Delivery Options</a></li> 
+     </ul> 
+     <ul class="horizontal-list"> 
+      <li>Support &amp; Contact</li> 
+      <li><a href="http://reuters.zendesk.com">Support</a></li> 
+      <li><a href="http://reuters.zendesk.com/anonymous_requests/new">Corrections</a></li> 
+     </ul> 
+     <ul class="footer-account horizontal-list"> 
+      <li>Account Information</li> 
+      <li><a href="https://commerce.us.reuters.com/registration/pages/registration/begin.do?go=http%3A%2F%2Fwww.reuters.com%2F">Register</a></li> 
+      <li><a href="https://commerce.us.reuters.com/login/pages/login/portfolioLogin.do?go=http%3A%2F%2Fwww.reuters.com%2F">Sign In</a></li> 
+     </ul> 
+     <ul class="footer-connect horizontal-list"> 
+      <li>Connect with Reuters</li> 
+      <li><a href="http://www.twitter.com/reuters" class="footer-twitter">Twitter</a></li> 
+      <li><a href="http://www.facebook.com/Reuters" class="footer-facebook">Facebook</a></li> 
+      <li><a href="http://www.linkedin.com/today/reuters.com" class="footer-linkedin">Linkedin</a></li> 
+      <li><a href="http://www.reuters.com/tools/rss" class="footer-rssfeed">RSS</a></li> 
+      <li><a href="http://www.reuters.com/tools/podcasts" class="footer-podcast">Podcast</a></li> 
+      <li><a href="https://commerce.us.reuters.com/profile/pages/newsletter/begin.do" class="footer-newsletter">Newsletters</a></li> 
+      <li><a href="http://www.reuters.com/tools/mobile" class="footer-mobile">Mobile</a></li> 
+     </ul> 
+     <ul class="footer-about horizontal-list"> 
+      <li>About</li> 
+      <li><a href="http://www.reuters.com/privacy-policy">Privacy Policy</a></li> 
+      <li><a href="http://www.reuters.com/terms-of-use">Terms of Use</a></li> 
+      <li><a href="http://sales.reuters.com/">Advertise With Us</a></li> 
+      <li id="evidon-footer"><a id="_bapw-link" href="http://info.evidon.com/pub_info/285?v=1" target="_blank"><img id="_bapw-icon" border="0" src="https://cdn.betrad.com/pub/icon1.png" /><span id="evidon-text">AdChoices</span></a></li> 
+      <li><a href="http://thomsonreuters.com/copyright/">Copyright</a></li> 
+     </ul> 
+    </div> 
+    <div class="wrap footer-trnetwork group"> 
+     <div class="footer-trnetwork-inside"> 
+      <div class="grid12 grid-inside"> 
+       <img src="http://www.reuters.com/resources_v2/images/tr-source-txt.gif" alt="Thomson Reuters is the world's leading source of intelligent information for business and professionals." class="footer-trnetwork-header" /> 
+      </div> 
+      <div class="grid12 grid-inside"> 
+       <a href="http://www.thomsonreuters.com/" class="footer-thomsonreuters">Thomson Reuters</a> 
+      </div> 
+      <div class="grid10 grid-inside"> 
+       <ul class="footer-trnetwork-products horizontal-list"> 
+        <li class="trnetwork-eikon"><a href="http://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html?utm_campaign=e4&amp;utm_medium=fbanner&amp;utm_source=rcomfooter"><span class="tr-brand"></span>Our Flagship financial information platform incorporating Reuters Insider</a></li> 
+        <li class="trnetwork-elektron"><a href="http://financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/elektron-financial-applications.html?utm_campaign=elektron&amp;utm_medium=fbanner&amp;utm_source=rcomfooter"><span class="tr-brand"></span>An ultra-low latency infrastructure for electronic trading and data distribution</a></li> 
+        <li class="trnetwork-accelus"><a href="http://accelus.thomsonreuters.com/?utm_campaign=accelus&amp;utm_medium=fbanner&amp;utm_source=rcomfooter"><span class="tr-brand"></span>A connected approach to governance, risk and compliance</a></li> 
+        <li class="trnetwork-westlaw"><a href="http://west.thomson.com/westlawnext/default.aspx"><span class="tr-brand"></span>Our next generation legal research platform</a></li> 
+        <li class="trnetwork-onesource"><a href="http://onesource.thomsonreuters.com/"><span class="tr-brand"></span>Our global tax workstation</a></li> 
+       </ul> 
+      </div> 
+      <div class="grid2"> 
+       <ul class="footer-trnetwork-links horizontal-list"> 
+        <li><a href="http://thomsonreuters.com/">Thomsonreuters.com</a></li> 
+        <li><a href="http://thomsonreuters.com/about/">About Thomson Reuters</a></li> 
+        <li><a href="http://ir.thomsonreuters.com">Investor Relations</a></li> 
+        <li><a href="http://careers.thomsonreuters.com/">Careers</a></li> 
+        <li><a href="http://thomsonreuters.com/about/contact_us/">Contact Us</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="wrap footer-disclaimer"> 
+     <p><a href="http://www.thomsonreuters.com">Thomson Reuters</a> is the world's largest international multimedia news agency, providing <a href="http://www.reuters.com/finance/markets/us">investing news</a>, <a href="http://www.reuters.com/news/world">world news</a>, <a href="http://www.reuters.com/finance">business news</a>, <a href="http://www.reuters.com/news/technology">technology news</a>, headline news, <a href="http://www.reuters.com/finance/smallBusiness">small business news</a>, news alerts, <a href="http://www.reuters.com/finance/personal-finance">personal finance</a>, <a href="http://www.reuters.com/finance/stocks">stock market</a>, and <a href="http://funds.us.reuters.com/US/overview.asp">mutual funds information</a> available on Reuters.com, <a href="http://www.reuters.com/news/video">video</a>, <a href="http://www.reuters.com/tools/mobile">mobile</a>, and interactive television platforms. Thomson Reuters journalists are subject to an <a href="http://handbook.reuters.com">Editorial Handbook</a> which requires fair presentation and disclosure of relevant interests.</p> 
+     <p>NYSE and AMEX quotes delayed by at least 20 minutes. Nasdaq delayed by at least 15 minutes. For a complete <a target="_blank" href="http://www.reuters.com/info/disclaimer">list of exchanges and delays, please click here</a>.</p> 
+    </div> 
+   </div>
+   <div class="linebreak"></div> 
+  </footer>
+  <script src="http://s2.reutersmedia.net/resources_v2/js/webtrends.load.js" type="text/javascript"></script> 
+  <!-- IE8 Polyfills --> 
+  <!--[if lt IE 9]>
+<script src="http://s3.reutersmedia.net/resources_v2/js/rcom-legacy-ie-polyfill.js" type="text/javascript"></script>
+<![endif]--> 
+  <script src="http://s4.reutersmedia.net/resources_v2/js/rcom-script.js" type="text/javascript"></script> 
+  <script src="http://s2.reutersmedia.net/resources_v2/js/rcom-tracking.js" type="text/javascript"></script> 
+  <script src="http://s2.reutersmedia.net/resources_v2/js/rcom-social-share.js" type="text/javascript"></script> 
+  <script src="http://s3.reutersmedia.net/resources_v2/js/rcom-login.js" type="text/javascript"></script> 
+  <!--[if lt IE 9]>
+<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-legacy-ie-script.js" type="text/javascript"></script>
+<![endif]--> 
+  <!-- Recommendation Tracking Pixel --> 
+  <script src="http://s2.reutersmedia.net/resources_v2/js/tracker-article-v2.js" type="text/javascript"></script> 
+  <!-- Taboola --> 
+  <script type="text/javascript">
+ window._taboola = window._taboola || [];
+ window._taboola.push({article:'auto'}); 
+ !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/reuters-network/loader.js');
+</script> 
+  <script type="text/javascript">
+window._taboola = window._taboola || [];
+_taboola.push({mode:'organic-text-links-2c', container:'taboola-bmc', placement:'bmc', target_type:'text'});
+_taboola.push({mode:'thumbs-2r', container:'taboola-below-main-column', placement:'below-main-column'});
+window._taboola.push({flush:true});
+</script> 
+  <script src="http://s2.reutersmedia.net/resources_v2/js/libraries/jquery.qrcode.min.js" type="text/javascript"></script> 
+  <script src="http://s2.reutersmedia.net/resources_v2/js/libraries/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script> 
+  <script src="http://s2.reutersmedia.net/resources_v2/js/rcom-slideshow.js" type="text/javascript"></script> 
+  <script type="text/javascript">
+var webTrendsExists;
+function checkWebTrends() {
+	webTrendsExists = webTrendsExists || typeof Webtrends !== 'undefined';
+}
+
+$('.slider-module').slick({
+	arrows: false,
+	touchMove: false,
+	swipeToSlide: true
+});
+
+$('.slider-left').click(function(){
+	$(".slider").slickPrev();
+	checkWebTrends();
+    if (webTrendsExists) {
+            Webtrends.multiTrack({
+                argsa: [
+                    "WT.z_event", "previous-slide",
+                    "WT.dl", "16"
+                ]
+            });
+        }
+});
+$('.slider-right').click(function(){
+	$(".slider").slickNext();
+	checkWebTrends();
+    if (webTrendsExists) {
+            Webtrends.multiTrack({
+                argsa: [
+                    "WT.z_event", "next-slide",
+                    "WT.dl", "16"
+                ]
+            });
+        }
+});
+
+
+function weChatBox_show(tag,url){
+$("#shr-qrcode").empty();  
+if ( $('html').hasClass( 'canvas' ) ) {
+	$("#shr-qrcode").qrcode({
+		render: "canvas",
+		width:178,
+		height:178,
+		text: url
+	});
+} else {
+	$("#shr-qrcode").qrcode({
+		render: "table",
+		width:178,
+		height:178,
+		text: url
+	});
+}
+    shrBoxShow(tag);
+}
+
+function shrBoxHide(tag){
+	$('.shr-overlay').removeClass('active');
+}
+
+function shrBoxShow(tag){
+    $('.shr-overlay').addClass('active');
+}
+
+$(document).ready(function() {
+    var relatedNewsModules = $('.related-news');
+    var relatedVideoModules = $('.related-video');
+    var relatedNewsObj;
+    var relatedVideoObj;
+    var littleHeader;
+    $.each(relatedNewsModules, function(i) {
+        relatedNewsObj = $(relatedNewsModules[i]);
+	littleHeader = relatedNewsObj.prev().prev().prev();
+	if (littleHeader.text() === littleHeader.text().toUpperCase()) {
+            relatedNewsObj.insertBefore(littleHeader);
+        }
+    });
+    $.each(relatedVideoModules, function(i) {
+	relatedVideoObj = $(relatedVideoModules[i]);
+	littleHeader = relatedVideoObj.prev().prev().prev();
+	if (littleHeader.text() === littleHeader.text().toUpperCase()) {
+            relatedVideoObj.insertBefore(littleHeader);
+        } 
+    });
+}); 
+</script> 
+  <div class="shr-overlay"> 
+   <div id="weChatBox" class="shr-box shr-qr"> 
+    <div class="shr-qr-top group"> 
+     <a href="javascript:void(0)" onclick="shrBoxHide('weChatBox')" class="shr-qr-close">X</a> 
+    </div> 
+    <div id="shr-qrcode" class="shr-qr-content"></div> 
+   </div> 
+  </div> 
+  <script type="text/javascript">
+var allSpans = document.getElementsByTagName('span');
+for (i = 0; i < allSpans.length; i++) {
+  if (allSpans[i].id.indexOf('symbol') == 0) {
+    var symbol = allSpans[i].innerHTML.replace(/^\s+|\s+$/g, '');
+    var localPath = '/finance/stocks/overview';
+    allSpans[i].innerHTML = '<a href="' + localPath + '?symbol=' + encodeURIComponent(symbol) + '">' + symbol + '</a>';
+  }
+}
+</script> 
+  <script type="text/javascript" src="/assets/inlineArticleLinks"></script>  
+ </body>
+</html>
